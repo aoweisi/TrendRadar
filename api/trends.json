@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-19T22:27:58.094495+08:00",
-  "total_titles_processed": 1713,
+  "generated_at": "2026-01-19T23:26:43.162145+08:00",
+  "total_titles_processed": 1807,
   "failed_sources": [],
   "trends": [
     {
@@ -29,11 +29,12 @@
           "ranks": [
             9,
             17,
-            2
+            2,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时21分 ~ 22时27分]"
+          "appearance_count": 7,
+          "time_info": "[19时21分 ~ 23时26分]"
         },
         {
           "title": "洋妞避债攻略:外嫁留子来华上岸",
