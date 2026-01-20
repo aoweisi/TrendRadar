@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-21T02:36:08.732651+08:00",
-  "total_titles_processed": 486,
+  "generated_at": "2026-01-21T04:12:44.302055+08:00",
+  "total_titles_processed": 548,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32423066",
           "source": "澎湃新闻",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 02时36分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 04时12分]"
         },
         {
           "title": "报道：富时100指数编制方或将放宽外资公司准入门槛",
