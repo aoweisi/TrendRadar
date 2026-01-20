@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-01-20T19:24:11.948236+08:00",
-  "total_titles_processed": 1690,
+  "generated_at": "2026-01-20T20:48:06.102279+08:00",
+  "total_titles_processed": 1798,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "体制 事业编 行政编 公务员 国企 编制 公职 选调生 参公 考公 上岸",
       "match_count": 4,
       "titles": [
+        {
+          "title": "御诺乳业使用2.9亿扶贫基金到期未还，担保国企一同被诉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32423066",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时31分 ~ 20时48分]"
+        },
         {
           "title": "英国海滩罕见景象：大量薯条被冲上岸",
           "url": "https://www.baidu.com/s?wd=%E8%8B%B1%E5%9B%BD%E6%B5%B7%E6%BB%A9%E7%BD%95%E8%A7%81%E6%99%AF%E8%B1%A1%EF%BC%9A%E5%A4%A7%E9%87%8F%E8%96%AF%E6%9D%A1%E8%A2%AB%E5%86%B2%E4%B8%8A%E5%B2%B8",
@@ -20,19 +34,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时29分 ~ 07时21分]"
-        },
-        {
-          "title": "御诺乳业使用2.9亿扶贫基金到期未还，担保国企一同被诉",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32423066",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时31分 ~ 19时24分]"
         },
         {
           "title": "【财政部：中国财政补贴规模远远低于一些国际机构估算】1月20日，财政部副部长廖岷在国新办新闻发布会上表示，中国财政补贴规模远远低于一些国际机构估算。中国企业的技术进步和竞争优势，靠的不是补贴，而是靠中国企业持续的研发投入，和千千万万企业家艰苦创业赢得的。",
