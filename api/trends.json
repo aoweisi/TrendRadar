@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-21T07:22:12.388514+08:00",
-  "total_titles_processed": 709,
+  "generated_at": "2026-01-21T09:44:34.500936+08:00",
+  "total_titles_processed": 878,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             2,
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时35分 ~ 07时22分]"
+          "appearance_count": 12,
+          "time_info": "[00时35分 ~ 09时44分]"
         },
         {
           "title": "报道：富时100指数编制方或将放宽外资公司准入门槛",
