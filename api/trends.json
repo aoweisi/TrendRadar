@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T06:21:51.831294+08:00",
-  "total_titles_processed": 589,
+  "generated_at": "2026-01-27T07:22:23.943163+08:00",
+  "total_titles_processed": 636,
   "failed_sources": [],
   "trends": [
     {
@@ -17,19 +17,20 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时33分 ~ 06时21分]"
+          "appearance_count": 11,
+          "time_info": "[00时33分 ~ 07时22分]"
         },
         {
           "title": "国企董事长上门殴打他人被行拘3天",
           "url": "https://www.toutiao.com/trending/7599503309749764139/",
           "source": "今日头条",
           "ranks": [
-            24
+            24,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时34分 ~ 04时27分]"
+          "appearance_count": 5,
+          "time_info": "[02时34分 ~ 07时22分]"
         },
         {
           "title": "华尔街两大投行：预计美国企业盈利开始走出大型科技股独大",
