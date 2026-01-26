@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T02:35:05.414880+08:00",
-  "total_titles_processed": 434,
+  "generated_at": "2026-01-27T03:23:47.177561+08:00",
+  "total_titles_processed": 478,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "抖音",
           "ranks": [
             21,
-            22
+            22,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时33分 ~ 02时35分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 03时23分]"
         },
         {
           "title": "华尔街两大投行：预计美国企业盈利开始走出大型科技股独大",
