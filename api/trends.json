@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-26T13:33:45.156284+08:00",
-  "total_titles_processed": 918,
+  "generated_at": "2026-01-26T14:36:36.638169+08:00",
+  "total_titles_processed": 1007,
   "failed_sources": [],
   "trends": [
     {
@@ -36,11 +36,12 @@
           "url": "https://www.baidu.com/s?wd=%E5%A4%AA%E5%8E%9F%E4%B8%80%E5%9B%BD%E4%BC%81%E8%91%A3%E4%BA%8B%E9%95%BF%E4%B8%8A%E9%97%A8%E6%AE%B4%E6%89%93%E4%BB%96%E4%BA%BA%E8%A2%AB%E6%8B%98",
           "source": "百度热搜",
           "ranks": [
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时56分 ~ 13时33分]"
+          "appearance_count": 4,
+          "time_info": "[12时56分 ~ 14时36分]"
         },
         {
           "title": "据日本时事通讯社：日本内阁官房长官木原稔表示，如果2026财年预算案不太可能在3月底前获得国会通过，政府将编制一份暂时预算案。",
@@ -49,7 +50,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时33分"
         },
@@ -60,7 +61,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时33分"
         }
