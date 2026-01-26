@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-26T16:32:13.169252+08:00",
-  "total_titles_processed": 1214,
+  "generated_at": "2026-01-26T17:34:31.416112+08:00",
+  "total_titles_processed": 1325,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             14,
             17,
-            18
+            18,
+            15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时56分 ~ 16时32分]"
+          "appearance_count": 9,
+          "time_info": "[12时56分 ~ 17时34分]"
         },
         {
           "title": "日本内阁官房长官木原稔表示，若2026财年预算案无法在 3 月底前通过国会，政府将编制临时预算案。（日本共同社）",
