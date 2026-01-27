@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T15:27:49.423788+08:00",
-  "total_titles_processed": 1323,
+  "generated_at": "2026-01-27T16:33:05.150168+08:00",
+  "total_titles_processed": 1432,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             21,
             22,
             20,
-            19
+            19,
+            29
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时33分 ~ 15时27分]"
+          "appearance_count": 19,
+          "time_info": "[00时33分 ~ 16时33分]"
         },
         {
           "title": "国企董事长殴打他人被拘 当地通报",
@@ -37,6 +38,18 @@
         },
         {
           "title": "香港4名公务员表现欠佳被着令退休",
+          "url": "https://www.toutiao.com/trending/7599609222804701222/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时46分 ~ 16时33分]"
+        },
+        {
+          "title": "香港4名公务员表现欠佳被着令退休",
           "url": "https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF4%E5%90%8D%E5%85%AC%E5%8A%A1%E5%91%98%E8%A1%A8%E7%8E%B0%E6%AC%A0%E4%BD%B3%E8%A2%AB%E7%9D%80%E4%BB%A4%E9%80%80%E4%BC%91",
           "source": "百度热搜",
           "ranks": [
@@ -50,6 +63,18 @@
           "time_info": "[09时47分 ~ 13时27分]"
         },
         {
+          "title": "国企转让95只羊：1根毛都不能私自处理",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E4%BC%81%E8%BD%AC%E8%AE%A995%E5%8F%AA%E7%BE%8A%EF%BC%9A1%E6%A0%B9%E6%AF%9B%E9%83%BD%E4%B8%8D%E8%83%BD%E7%A7%81%E8%87%AA%E5%A4%84%E7%90%86",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时27分 ~ 16时33分]"
+        },
+        {
           "title": "香港4名公务员表现欠佳被着令退休",
           "url": "https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF4%E5%90%8D%E5%85%AC%E5%8A%A1%E5%91%98%E8%A1%A8%E7%8E%B0%E6%AC%A0%E4%BD%B3%E8%A2%AB%E7%9D%80%E4%BB%A4%E9%80%80%E4%BC%91%23&t=31&band_rank=2&Refer=top",
           "source": "微博",
@@ -60,18 +85,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时47分 ~ 12时46分]"
-        },
-        {
-          "title": "香港4名公务员表现欠佳被着令退休",
-          "url": "https://www.toutiao.com/trending/7599609222804701222/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时46分 ~ 15时27分]"
         },
         {
           "title": "国企董事长上门殴打他人被行拘3天",
@@ -96,17 +109,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时34分 ~ 01时29分]"
-        },
-        {
-          "title": "国企转让95只羊：1根毛都不能私自处理",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E4%BC%81%E8%BD%AC%E8%AE%A995%E5%8F%AA%E7%BE%8A%EF%BC%9A1%E6%A0%B9%E6%AF%9B%E9%83%BD%E4%B8%8D%E8%83%BD%E7%A7%81%E8%87%AA%E5%A4%84%E7%90%86",
-          "source": "百度热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时27分"
         }
       ]
     }
