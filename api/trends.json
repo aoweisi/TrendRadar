@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T06:22:46.960088+08:00",
-  "total_titles_processed": 663,
+  "generated_at": "2026-01-28T07:21:53.345032+08:00",
+  "total_titles_processed": 712,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,12 @@
             12,
             18,
             16,
-            20
+            20,
+            15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时30分 ~ 06时22分]"
+          "appearance_count": 10,
+          "time_info": "[00时30分 ~ 07时21分]"
         },
         {
           "title": "体制内小年轻的总希望作息规律，按时上下班，有的到点就走，这是不求上进吗？",
@@ -35,8 +36,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时30分 ~ 05时18分]"
+          "appearance_count": 9,
+          "time_info": "[00时30分 ~ 07时21分]"
         },
         {
           "title": "香港4名公务员表现欠佳被着令退休",
@@ -46,11 +47,12 @@
             20,
             19,
             23,
-            10
+            10,
+            15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时30分 ~ 06时22分]"
+          "appearance_count": 10,
+          "time_info": "[00时30分 ~ 07时21分]"
         }
       ]
     }
