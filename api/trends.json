@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-27T20:48:02.931708+08:00",
-  "total_titles_processed": 1843,
+  "generated_at": "2026-01-27T21:46:51.421774+08:00",
+  "total_titles_processed": 1954,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "体制 事业编 行政编 公务员 国企 编制 公职 选调生 参公 考公 上岸",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "国企转让95只羊：1根毛都不能私自处理",
@@ -32,8 +32,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时46分 ~ 20时48分]"
+          "appearance_count": 14,
+          "time_info": "[12时46分 ~ 21时46分]"
         },
         {
           "title": "何炅周考上岸",
@@ -51,6 +51,18 @@
           "time_info": "[00时33分 ~ 16时33分]"
         },
         {
+          "title": "多地对国企近亲繁殖出手了",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9C%B0%E5%AF%B9%E5%9B%BD%E4%BC%81%E8%BF%91%E4%BA%B2%E7%B9%81%E6%AE%96%E5%87%BA%E6%89%8B%E4%BA%86%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时23分 ~ 21时46分]"
+        },
+        {
           "title": "国企董事长殴打他人被拘 当地通报",
           "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E4%BC%81%E8%91%A3%E4%BA%8B%E9%95%BF%E6%AE%B4%E6%89%93%E4%BB%96%E4%BA%BA%E8%A2%AB%E6%8B%98+%E5%BD%93%E5%9C%B0%E9%80%9A%E6%8A%A5",
           "source": "百度热搜",
@@ -63,18 +75,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时47分 ~ 14时34分]"
-        },
-        {
-          "title": "多地对国企近亲繁殖出手了",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9C%B0%E5%AF%B9%E5%9B%BD%E4%BC%81%E8%BF%91%E4%BA%B2%E7%B9%81%E6%AE%96%E5%87%BA%E6%89%8B%E4%BA%86%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时23分 ~ 20时48分]"
         },
         {
           "title": "香港4名公务员表现欠佳被着令退休",
@@ -115,22 +115,34 @@
           "time_info": "[02时34分 ~ 07时22分]"
         },
         {
-          "title": "多地对国企“近亲繁殖”出手",
-          "url": "https://www.toutiao.com/trending/7599181936439164971/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时47分 ~ 20时48分]"
-        },
-        {
           "title": "体制内小年轻的总希望作息规律，按时上下班，有的到点就走，这是不求上进吗？",
           "url": "https://www.zhihu.com/question/1922523076005987776",
           "source": "知乎",
           "ranks": [
             7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时47分 ~ 21时46分]"
+        },
+        {
+          "title": "多地对国企“近亲繁殖”出手了",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%AF%B9%E5%9B%BD%E4%BC%81%E2%80%9C%E8%BF%91%E4%BA%B2%E7%B9%81%E6%AE%96%E2%80%9D%E5%87%BA%E6%89%8B%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时47分 ~ 21时46分]"
+        },
+        {
+          "title": "多地对国企“近亲繁殖”出手",
+          "url": "https://www.toutiao.com/trending/7599181936439164971/",
+          "source": "今日头条",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -149,15 +161,15 @@
           "time_info": "[00时34分 ~ 01时29分]"
         },
         {
-          "title": "多地对国企“近亲繁殖”出手了",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%AF%B9%E5%9B%BD%E4%BC%81%E2%80%9C%E8%BF%91%E4%BA%B2%E7%B9%81%E6%AE%96%E2%80%9D%E5%87%BA%E6%89%8B%E4%BA%86",
-          "source": "百度热搜",
+          "title": "印度石油公司董事长：外国企业对在印度进行石油勘探表现出浓厚兴趣。",
+          "url": "https://flash.jin10.com/detail/20260127205309275800",
+          "source": "金十数据",
           "ranks": [
-            10
+            25
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时47分 ~ 20时48分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时46分"
         }
       ]
     }
