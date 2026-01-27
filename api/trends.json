@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T13:27:02.582644+08:00",
-  "total_titles_processed": 1109,
+  "generated_at": "2026-01-27T14:34:53.193540+08:00",
+  "total_titles_processed": 1212,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             21,
             22,
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时33分 ~ 13时27分]"
+          "appearance_count": 16,
+          "time_info": "[00时33分 ~ 14时34分]"
         },
         {
           "title": "国企董事长殴打他人被拘 当地通报",
@@ -27,11 +28,12 @@
           "ranks": [
             4,
             21,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时47分 ~ 13时27分]"
+          "appearance_count": 7,
+          "time_info": "[09时47分 ~ 14时34分]"
         },
         {
           "title": "香港4名公务员表现欠佳被着令退休",
@@ -80,8 +82,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时46分 ~ 13时27分]"
+          "appearance_count": 4,
+          "time_info": "[12时46分 ~ 14时34分]"
         },
         {
           "title": "华尔街两大投行：预计美国企业盈利开始走出大型科技股独大",
