@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T02:38:28.367750+08:00",
-  "total_titles_processed": 455,
+  "generated_at": "2026-01-28T03:26:39.919996+08:00",
+  "total_titles_processed": 503,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             5,
-            6
+            6,
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时30分 ~ 02时38分]"
+          "appearance_count": 6,
+          "time_info": "[00时30分 ~ 03时26分]"
         },
         {
           "title": "多地对国企“近亲繁殖”出手了",
@@ -26,11 +27,12 @@
           "ranks": [
             7,
             10,
-            12
+            12,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时30分 ~ 02时38分]"
+          "appearance_count": 6,
+          "time_info": "[00时30分 ~ 03时26分]"
         },
         {
           "title": "香港4名公务员表现欠佳被着令退休",
@@ -42,8 +44,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时30分 ~ 02时38分]"
+          "appearance_count": 6,
+          "time_info": "[00时30分 ~ 03时26分]"
         }
       ]
     }
