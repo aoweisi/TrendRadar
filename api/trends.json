@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T22:29:57.801197+08:00",
-  "total_titles_processed": 2015,
+  "generated_at": "2026-01-27T23:31:49.359664+08:00",
+  "total_titles_processed": 2117,
   "failed_sources": [],
   "trends": [
     {
@@ -29,11 +29,12 @@
             16,
             14,
             15,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时46分 ~ 22时29分]"
+          "appearance_count": 16,
+          "time_info": "[12时46分 ~ 23时31分]"
         },
         {
           "title": "何炅周考上岸",
@@ -56,11 +57,12 @@
           "source": "微博",
           "ranks": [
             2,
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时23分 ~ 22时29分]"
+          "appearance_count": 6,
+          "time_info": "[19时23分 ~ 23时31分]"
         },
         {
           "title": "国企董事长殴打他人被拘 当地通报",
@@ -91,6 +93,18 @@
           "time_info": "[09时47分 ~ 13时27分]"
         },
         {
+          "title": "体制内小年轻的总希望作息规律，按时上下班，有的到点就走，这是不求上进吗？",
+          "url": "https://www.zhihu.com/question/1922523076005987776",
+          "source": "知乎",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时47分 ~ 23时31分]"
+        },
+        {
           "title": "香港4名公务员表现欠佳被着令退休",
           "url": "https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF4%E5%90%8D%E5%85%AC%E5%8A%A1%E5%91%98%E8%A1%A8%E7%8E%B0%E6%AC%A0%E4%BD%B3%E8%A2%AB%E7%9D%80%E4%BB%A4%E9%80%80%E4%BC%91%23&t=31&band_rank=2&Refer=top",
           "source": "微博",
@@ -103,6 +117,20 @@
           "time_info": "[11时47分 ~ 12时46分]"
         },
         {
+          "title": "多地对国企“近亲繁殖”出手了",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%AF%B9%E5%9B%BD%E4%BC%81%E2%80%9C%E8%BF%91%E4%BA%B2%E7%B9%81%E6%AE%96%E2%80%9D%E5%87%BA%E6%89%8B%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时47分 ~ 23时31分]"
+        },
+        {
           "title": "国企董事长上门殴打他人被行拘3天",
           "url": "https://www.toutiao.com/trending/7599503309749764139/",
           "source": "今日头条",
@@ -113,30 +141,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时34分 ~ 07时22分]"
-        },
-        {
-          "title": "体制内小年轻的总希望作息规律，按时上下班，有的到点就走，这是不求上进吗？",
-          "url": "https://www.zhihu.com/question/1922523076005987776",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时47分 ~ 22时29分]"
-        },
-        {
-          "title": "多地对国企“近亲繁殖”出手了",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%AF%B9%E5%9B%BD%E4%BC%81%E2%80%9C%E8%BF%91%E4%BA%B2%E7%B9%81%E6%AE%96%E2%80%9D%E5%87%BA%E6%89%8B%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时47分 ~ 22时29分]"
         },
         {
           "title": "多地对国企“近亲繁殖”出手",
