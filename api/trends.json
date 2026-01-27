@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T21:46:51.421774+08:00",
-  "total_titles_processed": 1954,
+  "generated_at": "2026-01-27T22:29:57.801197+08:00",
+  "total_titles_processed": 2015,
   "failed_sources": [],
   "trends": [
     {
@@ -32,8 +32,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时46分 ~ 21时46分]"
+          "appearance_count": 15,
+          "time_info": "[12时46分 ~ 22时29分]"
         },
         {
           "title": "何炅周考上岸",
@@ -59,8 +59,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时23分 ~ 21时46分]"
+          "appearance_count": 5,
+          "time_info": "[19时23分 ~ 22时29分]"
         },
         {
           "title": "国企董事长殴打他人被拘 当地通报",
@@ -122,8 +122,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时47分 ~ 21时46分]"
+          "appearance_count": 4,
+          "time_info": "[20时47分 ~ 22时29分]"
         },
         {
           "title": "多地对国企“近亲繁殖”出手了",
@@ -131,11 +131,12 @@
           "source": "百度热搜",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时47分 ~ 21时46分]"
+          "appearance_count": 4,
+          "time_info": "[20时47分 ~ 22时29分]"
         },
         {
           "title": "多地对国企“近亲繁殖”出手",
@@ -167,7 +168,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时46分"
         }
