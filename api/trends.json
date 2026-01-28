@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T02:36:58.296718+08:00",
-  "total_titles_processed": 433,
+  "generated_at": "2026-01-29T03:28:53.452927+08:00",
+  "total_titles_processed": 490,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             19,
             5,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 02时36分]"
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 03时28分]"
         },
         {
           "title": "多地推动「人情岗」「世袭岗」整治，国企「近亲繁殖」问题为啥难以根除？",
@@ -26,11 +27,12 @@
           "source": "知乎",
           "ranks": [
             7,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 02时36分]"
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 03时28分]"
         }
       ]
     }
