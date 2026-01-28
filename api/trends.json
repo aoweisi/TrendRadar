@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T09:44:14.599643+08:00",
-  "total_titles_processed": 867,
+  "generated_at": "2026-01-28T11:45:09.652315+08:00",
+  "total_titles_processed": 1028,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "体制 事业编 行政编 公务员 国企 编制 公职 选调生 参公 考公 上岸",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "多地对国企“近亲繁殖”出手了",
@@ -55,6 +55,17 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时30分 ~ 09时44分]"
+        },
+        {
+          "title": "多地推动「人情岗」「世袭岗」整治，国企「近亲繁殖」问题为啥难以根除？",
+          "url": "https://www.zhihu.com/question/1987528523913643854",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时44分 ~ 11时45分]"
         }
       ]
     }
