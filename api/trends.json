@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T19:23:30.293737+08:00",
-  "total_titles_processed": 1781,
+  "generated_at": "2026-01-28T20:48:25.893632+08:00",
+  "total_titles_processed": 1924,
   "failed_sources": [],
   "trends": [
     {
@@ -21,8 +21,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时44分 ~ 19时23分]"
+          "appearance_count": 13,
+          "time_info": "[11时44分 ~ 20时48分]"
         },
         {
           "title": "多地对国企“近亲繁殖”出手了",
@@ -94,7 +94,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
         },
