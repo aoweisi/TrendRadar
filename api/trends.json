@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T11:45:09.652315+08:00",
-  "total_titles_processed": 1028,
+  "generated_at": "2026-01-28T12:44:00.458474+08:00",
+  "total_titles_processed": 1121,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "体制 事业编 行政编 公务员 国企 编制 公职 选调生 参公 考公 上岸",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "多地对国企“近亲繁殖”出手了",
@@ -61,11 +61,23 @@
           "url": "https://www.zhihu.com/question/1987528523913643854",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时44分 ~ 12时44分]"
+        },
+        {
+          "title": "香港 4 名公务员表现欠佳被着令退休，如何看待这种处理方式的合理性？能起到警示作用吗？",
+          "url": "https://www.zhihu.com/question/1999422225762182190",
+          "source": "知乎",
+          "ranks": [
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时44分 ~ 11时45分]"
+          "time_info": "[12时43分 ~ 12时44分]"
         }
       ]
     }
