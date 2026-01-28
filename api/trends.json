@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T07:21:53.345032+08:00",
-  "total_titles_processed": 712,
+  "generated_at": "2026-01-28T09:44:14.599643+08:00",
+  "total_titles_processed": 867,
   "failed_sources": [],
   "trends": [
     {
@@ -18,11 +18,12 @@
             18,
             16,
             20,
-            15
+            15,
+            28
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时30分 ~ 07时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时30分 ~ 09时44分]"
         },
         {
           "title": "体制内小年轻的总希望作息规律，按时上下班，有的到点就走，这是不求上进吗？",
@@ -48,11 +49,12 @@
             19,
             23,
             10,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时30分 ~ 07时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时30分 ~ 09时44分]"
         }
       ]
     }
