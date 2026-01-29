@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T14:45:13.566126+08:00",
-  "total_titles_processed": 1321,
+  "generated_at": "2026-01-29T15:40:26.868809+08:00",
+  "total_titles_processed": 1431,
   "failed_sources": [],
   "trends": [
     {
@@ -46,11 +46,12 @@
             19,
             17,
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时55分 ~ 14时45分]"
+          "appearance_count": 7,
+          "time_info": "[09时55分 ~ 15时40分]"
         },
         {
           "title": "鲍威尔：将建议下一届美联储主席远离政治。 在公职人员中，没有比美联储官员更好的了。",
