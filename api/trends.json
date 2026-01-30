@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-30T19:28:21.441962+08:00",
-  "total_titles_processed": 1760,
+  "generated_at": "2026-01-30T20:54:09.716392+08:00",
+  "total_titles_processed": 1886,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "体制 事业编 行政编 公务员 国企 编制 公职 选调生 参公 考公 上岸",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "深圳多区小学期末卷被称堪比公务员行测，这是在锻炼学生思维还是在增加负担？是否有必要这么难？",
@@ -28,9 +28,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时28分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时28分 ~ 20时54分]"
         },
         {
           "title": "2人被撤销“人民满意的公务员”称号",
@@ -38,11 +38,12 @@
           "source": "百度热搜",
           "ranks": [
             14,
-            2
+            2,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时38分 ~ 19时28分]"
+          "appearance_count": 5,
+          "time_info": "[17时38分 ~ 20时54分]"
         },
         {
           "title": "2人被撤“人民满意的公务员”称号",
@@ -55,6 +56,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时09分 ~ 14时46分]"
+        },
+        {
+          "title": "美元套期保值飙升至纪录高位 2026年美元或迎体制性回调",
+          "url": "https://flash.jin10.com/detail/20260130201923755800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
         },
         {
           "title": "中国企业是否考虑扩大在委内瑞拉的能源投资？外交部回应",
