@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T14:46:53.935077+08:00",
-  "total_titles_processed": 1234,
+  "generated_at": "2026-01-30T15:40:00.468813+08:00",
+  "total_titles_processed": 1335,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             1,
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时56分 ~ 14时46分]"
+          "appearance_count": 7,
+          "time_info": "[09时56分 ~ 15时40分]"
         },
         {
           "title": "2人被撤“人民满意的公务员”称号",
