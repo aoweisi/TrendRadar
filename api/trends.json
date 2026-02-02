@@ -1,45 +1,22 @@
 {
-  "generated_at": "2026-02-02T23:38:22.124119+08:00",
-  "total_titles_processed": 1735,
+  "generated_at": "2026-02-03T00:39:56.039647+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "体制 事业编 行政编 公务员 国企 编制 公职 选调生 参公 考公 上岸",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
         {
-          "title": "美国企业批评波兰拟推数字服务税",
-          "url": "https://flash.jin10.com/detail/20260202214615823800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时04分"
-        },
-        {
-          "title": "外交部：中方要求美国执法部门立即停止错误行径 停止对中国企业人员的无端盘查",
-          "url": "https://wallstreetcn.com/livenews/3048172",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时50分 ~ 16时42分]"
-        },
-        {
-          "title": "中国移动通信集团内蒙古有限公司原党委委员、副总经理韩伟被开除党籍和公职",
-          "url": "https://wallstreetcn.com/livenews/3048350",
-          "source": "华尔街见闻-快讯",
+          "title": "年营收超4千亿元的国企公开招聘总裁",
+          "url": "https://www.toutiao.com/trending/7601448727152607273/",
+          "source": "今日头条",
           "ranks": [
             16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时57分"
+          "time_info": "00时39分"
         }
       ]
     }
