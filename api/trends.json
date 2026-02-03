@@ -1,49 +1,7 @@
 {
-  "generated_at": "2026-02-03T23:50:03.695244+08:00",
-  "total_titles_processed": 1938,
+  "generated_at": "2026-02-04T00:53:17.468949+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "体制 事业编 行政编 公务员 国企 编制 公职 选调生 参公 考公 上岸",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "年营收超4千亿元的国企公开招聘总裁",
-          "url": "https://www.toutiao.com/trending/7601448727152607273/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            10,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 02时43分]"
-        },
-        {
-          "title": "国资委：要高质量编制实施“十五五”人才规划，建立人才友好的企业生态",
-          "url": "https://wallstreetcn.com/livenews/3049137",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时07分"
-        },
-        {
-          "title": "陕西石泉县一公职人员涉黄被查获",
-          "url": "https://www.toutiao.com/trending/7602543178923245587/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时39分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
