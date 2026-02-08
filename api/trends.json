@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T18:27:13.150863+08:00",
-  "total_titles_processed": 1018,
+  "generated_at": "2026-02-08T19:23:00.841516+08:00",
+  "total_titles_processed": 1079,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://s.weibo.com/weibo?q=%2335%E5%B2%81%E5%9B%BD%E4%BC%81%E5%A5%B3%E6%8E%8C%E9%97%A8%E5%8F%97%E8%B4%BF4900%E4%B8%87%23&t=31&band_rank=2&Refer=top",
           "source": "微博",
           "ranks": [
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时26分 ~ 18时27分]"
+          "appearance_count": 4,
+          "time_info": "[18时26分 ~ 19时23分]"
         },
         {
           "title": "35岁国企女掌门受贿4900万案情披露",
