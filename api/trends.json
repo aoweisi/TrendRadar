@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-09T03:25:06.080797+08:00",
-  "total_titles_processed": 362,
+  "generated_at": "2026-02-09T04:27:07.898327+08:00",
+  "total_titles_processed": 376,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时30分 ~ 03时25分]"
+          "appearance_count": 9,
+          "time_info": "[00时30分 ~ 04时27分]"
         },
         {
           "title": "35岁国企女掌门受贿4900万案情披露",
@@ -25,11 +25,12 @@
           "ranks": [
             23,
             24,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时30分 ~ 03时25分]"
+          "appearance_count": 9,
+          "time_info": "[00时30分 ~ 04时27分]"
         }
       ]
     }
