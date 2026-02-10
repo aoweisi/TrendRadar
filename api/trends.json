@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-02-11T02:01:51.795698+08:00",
-  "total_titles_processed": 414,
+  "generated_at": "2026-02-11T03:59:33.688121+08:00",
+  "total_titles_processed": 495,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "体制 事业编 行政编 公务员 国企 编制 公职 选调生 参公 考公 上岸",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "事业编招聘要求能捕野牦牛？当地回应",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%8B%E4%B8%9A%E7%BC%96%E6%8B%9B%E8%81%98%E8%A6%81%E6%B1%82%E8%83%BD%E6%8D%95%E9%87%8E%E7%89%A6%E7%89%9B%EF%BC%9F%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时59分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
