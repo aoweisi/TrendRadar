@@ -1,52 +1,7 @@
 {
-  "generated_at": "2026-02-14T23:25:20.984663+08:00",
-  "total_titles_processed": 1634,
+  "generated_at": "2026-02-15T00:29:17.763170+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "体制 事业编 行政编 公务员 国企 编制 公职 选调生 参公 考公 上岸",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "广西投资集团有限公司原党委委员、副总经理黎敦满严重违纪违法被开除党籍和公职",
-          "url": "https://wallstreetcn.com/livenews/3055472",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            10,
-            14,
-            21,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时43分 ~ 17时31分]"
-        },
-        {
-          "title": "离婚后45岁的她去冰岛当公务员",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%A6%BB%E5%A9%9A%E5%90%8E45%E5%B2%81%E7%9A%84%E5%A5%B9%E5%8E%BB%E5%86%B0%E5%B2%9B%E5%BD%93%E5%85%AC%E5%8A%A1%E5%91%98%23&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时10分 ~ 13时43分]"
-        },
-        {
-          "title": "湖北通报部分精神院违规收治患者、涉嫌套取医保基金，多名公职人员被立案调查，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2005753468204315145",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时44分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
