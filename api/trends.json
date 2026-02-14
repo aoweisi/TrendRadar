@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-14T16:31:53.538886+08:00",
-  "total_titles_processed": 1177,
+  "generated_at": "2026-02-14T17:31:04.905158+08:00",
+  "total_titles_processed": 1248,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             4,
             10,
             14,
-            21
+            21,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时43分 ~ 16时31分]"
+          "appearance_count": 5,
+          "time_info": "[13时43分 ~ 17时31分]"
         },
         {
           "title": "离婚后45岁的她去冰岛当公务员",
