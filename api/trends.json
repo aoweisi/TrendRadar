@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-19T21:03:31.240063+08:00",
-  "total_titles_processed": 1603,
+  "generated_at": "2026-02-19T22:45:56.103846+08:00",
+  "total_titles_processed": 1715,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,18 @@
           "time_info": "12时52分"
         },
         {
+          "title": "英国国王之弟安德鲁因涉嫌担任公职期间行为不端被捕",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32632938",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时03分 ~ 22时45分]"
+        },
+        {
           "title": "安德鲁·蒙巴顿-温莎（英国安德鲁王子）因涉嫌在公职中行为不端而被逮捕。",
           "url": "https://flash.jin10.com/detail/20260219180231327800",
           "source": "金十数据",
@@ -28,17 +40,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时42分"
-        },
-        {
-          "title": "英国国王之弟安德鲁因涉嫌担任公职期间行为不端被捕",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32632938",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时03分"
         }
       ]
     }
