@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-19T22:45:56.103846+08:00",
-  "total_titles_processed": 1715,
+  "generated_at": "2026-02-19T23:47:45.290840+08:00",
+  "total_titles_processed": 1809,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,12 @@
           "source": "澎湃新闻",
           "ranks": [
             14,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时03分 ~ 22时45分]"
+          "appearance_count": 3,
+          "time_info": "[21时03分 ~ 23时47分]"
         },
         {
           "title": "安德鲁·蒙巴顿-温莎（英国安德鲁王子）因涉嫌在公职中行为不端而被逮捕。",
