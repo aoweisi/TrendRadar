@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T04:24:21.499619+08:00",
-  "total_titles_processed": 389,
+  "generated_at": "2026-02-22T05:23:02.427701+08:00",
+  "total_titles_processed": 397,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 04时24分]"
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 05时23分]"
         },
         {
           "title": "报告：央国企积极入局房地产代建业务 部分企业提前布局城市更新赛道",
@@ -27,19 +27,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 04时24分]"
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 05时23分]"
         },
         {
           "title": "云南3名党员公职人员涉嫌酒驾被查",
           "url": "https://www.toutiao.com/trending/7609230198168649769/",
           "source": "今日头条",
           "ranks": [
-            20
+            20,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时24分"
+          "appearance_count": 3,
+          "time_info": "[03时24分 ~ 05时23分]"
         }
       ]
     }
