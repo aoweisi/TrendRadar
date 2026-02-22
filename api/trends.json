@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-23T05:24:36.085826+08:00",
-  "total_titles_processed": 413,
+  "generated_at": "2026-02-23T06:23:29.332214+08:00",
+  "total_titles_processed": 432,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/livenews/3057292",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时24分 ~ 05时24分]"
+          "appearance_count": 4,
+          "time_info": "[03时24分 ~ 06时23分]"
         },
         {
           "title": "贝加尔湖溺亡中国游客遗体全部打捞上岸",
@@ -30,8 +31,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 05时24分]"
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 06时23分]"
         },
         {
           "title": "公务员参加王婆说媒炫富？官方回应",
