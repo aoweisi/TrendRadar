@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T07:24:06.056294+08:00",
-  "total_titles_processed": 430,
+  "generated_at": "2026-02-22T10:02:52.048573+08:00",
+  "total_titles_processed": 568,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            6
+            6,
+            22
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 07时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 10时02分]"
         },
         {
           "title": "报告：央国企积极入局房地产代建业务 部分企业提前布局城市更新赛道",
@@ -25,11 +26,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            18
+            18,
+            29
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 07时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 10时02分]"
         },
         {
           "title": "云南3名党员公职人员涉嫌酒驾被查",
