@@ -1,12 +1,34 @@
 {
-  "generated_at": "2026-02-24T04:04:03.551638+08:00",
-  "total_titles_processed": 386,
+  "generated_at": "2026-02-24T04:44:07.855151+08:00",
+  "total_titles_processed": 423,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "体制 事业编 行政编 公务员 国企 编制 公职 选调生 参公 考公 上岸",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "惠誉评级：不要指望2月20日的关税裁决会转化为美国企业评级的利好因素或会推动评级上调。",
+          "url": "https://flash.jin10.com/detail/20260224041218301800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时44分"
+        },
+        {
+          "title": "惠誉评级：尽管局势暂时缓解，美国企业再次面临关税不确定性的挑战。",
+          "url": "https://flash.jin10.com/detail/20260224040922889800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时44分"
+        },
         {
           "title": "媒体：公职身份从来不是炫富资本",
           "url": "https://www.toutiao.com/trending/7609515600783736882/",
@@ -16,8 +38,20 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时01分 ~ 04时04分]"
+          "appearance_count": 5,
+          "time_info": "[02时01分 ~ 04时44分]"
+        },
+        {
+          "title": "惠誉：最高法院裁决后，美国长期贸易体制处于变动之中。",
+          "url": "https://flash.jin10.com/detail/20260224033527413800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时04分 ~ 04时44分]"
         },
         {
           "title": "曼德尔森因涉嫌公职人员行为失当而被英国警方逮捕",
@@ -30,17 +64,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时01分 ~ 04时04分]"
-        },
-        {
-          "title": "惠誉：最高法院裁决后，美国长期贸易体制处于变动之中。",
-          "url": "https://flash.jin10.com/detail/20260224033527413800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时04分"
         }
       ]
     }
