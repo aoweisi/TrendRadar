@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-23T19:39:52.011296+08:00",
-  "total_titles_processed": 1357,
+  "generated_at": "2026-02-23T21:02:28.017257+08:00",
+  "total_titles_processed": 1449,
   "failed_sources": [],
   "trends": [
     {
@@ -57,11 +57,12 @@
           "ranks": [
             29,
             14,
-            19
+            19,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时54分 ~ 19时39分]"
+          "appearance_count": 5,
+          "time_info": "[17时54分 ~ 21时02分]"
         },
         {
           "title": "贝加尔湖溺亡中国游客遗体被打捞上岸",
