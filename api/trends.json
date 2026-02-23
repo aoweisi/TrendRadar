@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-23T16:50:13.814168+08:00",
-  "total_titles_processed": 1100,
+  "generated_at": "2026-02-23T17:55:04.192289+08:00",
+  "total_titles_processed": 1201,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "体制 事业编 行政编 公务员 国企 编制 公职 选调生 参公 考公 上岸",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "贝加尔湖溺亡中国游客遗体全部打捞上岸",
@@ -60,6 +60,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时57分 ~ 12时58分]"
+        },
+        {
+          "title": "媒体：公职身份从来不是炫富资本",
+          "url": "https://www.toutiao.com/trending/7609515600783736882/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时54分 ~ 17时55分]"
         }
       ]
     }
