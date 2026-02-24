@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-24T06:40:54.563312+08:00",
-  "total_titles_processed": 530,
+  "generated_at": "2026-02-24T08:06:00.390636+08:00",
+  "total_titles_processed": 627,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             20,
             19,
-            28
+            28,
+            16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时01分 ~ 06时40分]"
+          "appearance_count": 9,
+          "time_info": "[02时01分 ~ 08时06分]"
         },
         {
           "title": "惠誉评级：不要指望2月20日的关税裁决会转化为美国企业评级的利好因素或会推动评级上调。",
