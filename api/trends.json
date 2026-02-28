@@ -1,65 +1,22 @@
 {
-  "generated_at": "2026-02-28T23:21:57.981421+08:00",
-  "total_titles_processed": 2147,
+  "generated_at": "2026-03-01T00:26:08.100818+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "体制 事业编 行政编 公务员 国企 编制 公职 选调生 参公 考公 上岸",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
         {
           "title": "乙游男主上岸,受聘美院导师",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351112&amp;topic_name=%E4%B9%99%E6%B8%B8%E7%94%B7%E4%B8%BB%E4%B8%8A%E5%B2%B8%2C%E5%8F%97%E8%81%98%E7%BE%8E%E9%99%A2%E5%AF%BC%E5%B8%88",
           "source": "贴吧",
           "ranks": [
-            10,
-            11,
-            13,
-            16,
-            21,
-            22,
-            25,
-            27,
-            28,
             29
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[12时55分 ~ 23时21分]"
-        },
-        {
-          "title": "中国贸促会将适时组织中国企业家代表团访美",
-          "url": "https://wallstreetcn.com/livenews/3060700",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时29分"
-        },
-        {
-          "title": "美国企图取消中国最惠国待遇",
-          "url": "https://www.toutiao.com/trending/7611695842210090502/",
-          "source": "今日头条",
-          "ranks": [
-            25,
-            28
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时48分 ~ 12时55分]"
-        },
-        {
-          "title": "美国企业2月披露回购计划达2330亿美元，创历年同期新高",
-          "url": "https://wallstreetcn.com/livenews/3060518",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时22分"
+          "time_info": "[00时25分 ~ 00时26分]"
         }
       ]
     }
