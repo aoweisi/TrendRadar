@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-28T14:37:37.366153+08:00",
-  "total_titles_processed": 1138,
+  "generated_at": "2026-02-28T15:26:57.896234+08:00",
+  "total_titles_processed": 1254,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             10,
             11,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时55分 ~ 14时37分]"
+          "appearance_count": 5,
+          "time_info": "[12时55分 ~ 15时26分]"
         },
         {
           "title": "美国企图取消中国最惠国待遇",
