@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-28T19:19:12.158394+08:00",
-  "total_titles_processed": 1753,
+  "generated_at": "2026-02-28T20:43:14.542201+08:00",
+  "total_titles_processed": 1890,
   "failed_sources": [],
   "trends": [
     {
@@ -18,11 +18,12 @@
             16,
             21,
             22,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时55分 ~ 19时19分]"
+          "appearance_count": 13,
+          "time_info": "[12时55分 ~ 20时43分]"
         },
         {
           "title": "中国贸促会将适时组织中国企业家代表团访美",
