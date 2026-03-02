@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-02T14:57:34.269225+08:00",
-  "total_titles_processed": 1186,
+  "generated_at": "2026-03-02T15:51:09.243084+08:00",
+  "total_titles_processed": 1292,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             3,
             5,
             11,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时22分 ~ 14时57分]"
+          "appearance_count": 14,
+          "time_info": "[01时22分 ~ 15时51分]"
         },
         {
           "title": "逾350家中国企业亮相西班牙MWC，竞逐AI与6G产业机遇",
@@ -40,11 +41,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32683008",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时52分 ~ 14时57分]"
+          "appearance_count": 4,
+          "time_info": "[13时52分 ~ 15时51分]"
         },
         {
           "title": "商务部回应英制裁中国企业",
@@ -53,7 +55,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时57分"
         }
