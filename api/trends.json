@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-02T20:56:55.845077+08:00",
-  "total_titles_processed": 1826,
+  "generated_at": "2026-03-02T22:02:19.579237+08:00",
+  "total_titles_processed": 1954,
   "failed_sources": [],
   "trends": [
     {
@@ -24,8 +24,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[01时22分 ~ 20时56分]"
+          "appearance_count": 21,
+          "time_info": "[01时22分 ~ 22时02分]"
         },
         {
           "title": "商务部回应英制裁中国企业：敦促英方立即纠正错误做法",
@@ -36,11 +36,12 @@
             14,
             13,
             12,
-            9
+            9,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时52分 ~ 20时56分]"
+          "appearance_count": 11,
+          "time_info": "[13时52分 ~ 22时02分]"
         },
         {
           "title": "逾350家中国企业亮相西班牙MWC，竞逐AI与6G产业机遇",
