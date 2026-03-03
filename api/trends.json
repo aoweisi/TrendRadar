@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-03T18:38:44.929423+08:00",
-  "total_titles_processed": 1674,
+  "generated_at": "2026-03-03T20:55:57.212907+08:00",
+  "total_titles_processed": 1808,
   "failed_sources": [],
   "trends": [
     {
@@ -39,11 +39,12 @@
             12,
             7,
             11,
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时45分 ~ 18时38分]"
+          "appearance_count": 9,
+          "time_info": "[12时45分 ~ 20时55分]"
         },
         {
           "title": "有人考公雇人大量虚假报名吓走对手",
