@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-03T10:02:36.106827+08:00",
-  "total_titles_processed": 842,
+  "generated_at": "2026-03-03T12:46:04.363372+08:00",
+  "total_titles_processed": 1011,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "体制 事业编 行政编 公务员 国企 编制 公职 选调生 参公 考公 上岸",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "商务部回应英制裁中国企业：敦促英方立即纠正错误做法",
@@ -30,6 +30,28 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时44分 ~ 07时25分]"
+        },
+        {
+          "title": "有人考公雇人大量虚假报名吓走对手",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9C%89%E4%BA%BA%E8%80%83%E5%85%AC%E9%9B%87%E4%BA%BA%E5%A4%A7%E9%87%8F%E8%99%9A%E5%81%87%E6%8A%A5%E5%90%8D%E5%90%93%E8%B5%B0%E5%AF%B9%E6%89%8B%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时45分 ~ 12时46分]"
+        },
+        {
+          "title": "如何看待「《求是》杂志」3 月 1 日文章《着力破解周期性、结构性和体制性问题》？",
+          "url": "https://www.zhihu.com/question/2011851057815381900",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时45分 ~ 12时46分]"
         }
       ]
     }
