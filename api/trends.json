@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-03-04T23:40:15.167220+08:00",
-  "total_titles_processed": 2195,
+  "generated_at": "2026-03-05T00:43:18.524689+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "体制 事业编 行政编 公务员 国企 编制 公职 选调生 参公 考公 上岸",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "机构：智能体Token消耗年均增超30倍 中国企业智能体规模进入爆发期",
-          "url": "https://wallstreetcn.com/livenews/3063286",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时09分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
