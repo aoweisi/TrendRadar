@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-05T22:04:03.402892+08:00",
-  "total_titles_processed": 1947,
+  "generated_at": "2026-03-05T23:51:09.547558+08:00",
+  "total_titles_processed": 2063,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32705570",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时03分 ~ 22时04分]"
+          "appearance_count": 4,
+          "time_info": "[22时03分 ~ 23时51分]"
         },
         {
           "title": "美联储褐皮书：在大多数地区，随着企业竞相争夺劳动力，工资以温和或适度的速度上涨。本报告根据2026年2月23日或之前收集的信息编制而成。",
