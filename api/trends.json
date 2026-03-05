@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-05T20:58:39.635309+08:00",
-  "total_titles_processed": 1836,
+  "generated_at": "2026-03-05T22:04:03.402892+08:00",
+  "total_titles_processed": 1947,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "体制 事业编 行政编 公务员 国企 编制 公职 选调生 参公 考公 上岸",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "据英国央行调查，英国企业预计未来一年工资增长3.6%。",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时42分 ~ 18时38分]"
+        },
+        {
+          "title": "首场部长通道亮出“硬核成绩单”：科技领跑、智造升级、国企焕新",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32705570",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时03分 ~ 22时04分]"
         },
         {
           "title": "美联储褐皮书：在大多数地区，随着企业竞相争夺劳动力，工资以温和或适度的速度上涨。本报告根据2026年2月23日或之前收集的信息编制而成。",
