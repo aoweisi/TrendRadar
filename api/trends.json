@@ -1,7 +1,9 @@
 {
-  "generated_at": "2026-03-06T07:50:41.958419+08:00",
-  "total_titles_processed": 584,
-  "failed_sources": [],
+  "generated_at": "2026-03-06T10:01:12.703299+08:00",
+  "total_titles_processed": 731,
+  "failed_sources": [
+    "douyin"
+  ],
   "trends": [
     {
       "keyword_group": "体制 事业编 行政编 公务员 国企 编制 公职 选调生 参公 考公 上岸",
