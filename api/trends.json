@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-06T14:46:16.040599+08:00",
-  "total_titles_processed": 1136,
+  "generated_at": "2026-03-06T15:38:43.768980+08:00",
+  "total_titles_processed": 1211,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时03分 ~ 14时46分]"
+          "appearance_count": 9,
+          "time_info": "[02时03分 ~ 15时38分]"
         },
         {
           "title": "日本财务大臣片山皋月：正如首相此前所言，编制补充预算当然是一个选项。 政府已准备好采取及时措施，以应对伊朗冲突对经济造成的冲击。 日本尚未完全摆脱通缩。",
@@ -26,7 +26,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时46分"
         },
