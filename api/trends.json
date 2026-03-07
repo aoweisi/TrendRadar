@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-03-07T21:38:47.111617+08:00",
-  "total_titles_processed": 1628,
+  "generated_at": "2026-03-07T22:24:12.364746+08:00",
+  "total_titles_processed": 1681,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "体制 事业编 行政编 公务员 国企 编制 公职 选调生 参公 考公 上岸",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "公务员养上政务龙虾了",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%85%AC%E5%8A%A1%E5%91%98%E5%85%BB%E4%B8%8A%E6%94%BF%E5%8A%A1%E9%BE%99%E8%99%BE%E4%BA%86%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时23分 ~ 22时24分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
