@@ -1,61 +1,22 @@
 {
-  "generated_at": "2026-03-08T23:23:26.173009+08:00",
-  "total_titles_processed": 1538,
+  "generated_at": "2026-03-09T00:28:13.306676+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "体制 事业编 行政编 公务员 国企 编制 公职 选调生 参公 考公 上岸",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
         {
-          "title": "公务员养上政务龙虾了",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%85%AC%E5%8A%A1%E5%91%98%E5%85%BB%E4%B8%8A%E6%94%BF%E5%8A%A1%E9%BE%99%E8%99%BE%E4%BA%86%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
+          "title": "公务员“养龙虾”冲上热搜，有人称靠上门安装赚26万元！马化腾说没想到“龙虾”这么火",
+          "url": "https://wallstreetcn.com/articles/3766973",
+          "source": "华尔街见闻",
           "ranks": [
-            29,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时26分 ~ 07时22分]"
-        },
-        {
-          "title": "多方回应深圳公务员养“政务龙虾”",
-          "url": "https://www.toutiao.com/trending/7614692117782069298/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            6,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时28分 ~ 19时20分]"
-        },
-        {
-          "title": "多方回应深圳公务员组团养政务龙虾",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%96%B9%E5%9B%9E%E5%BA%94%E6%B7%B1%E5%9C%B3%E5%85%AC%E5%8A%A1%E5%91%98%E7%BB%84%E5%9B%A2%E5%85%BB%E6%94%BF%E5%8A%A1%E9%BE%99%E8%99%BE%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25,
-            14,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时19分 ~ 14时41分]"
-        },
-        {
-          "title": "公务员谈养龙虾真实感受",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%85%AC%E5%8A%A1%E5%91%98%E8%B0%88%E5%85%BB%E9%BE%99%E8%99%BE%E7%9C%9F%E5%AE%9E%E6%84%9F%E5%8F%97%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26,
-            30
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时24分 ~ 19时20分]"
+          "time_info": "[00时27分 ~ 00时28分]"
         }
       ]
     }
