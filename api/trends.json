@@ -1,9 +1,7 @@
 {
-  "generated_at": "2026-03-11T00:00:33.847048+08:00",
-  "total_titles_processed": 295,
-  "failed_sources": [
-    "zhihu"
-  ],
+  "generated_at": "2026-03-11T01:35:02.839812+08:00",
+  "total_titles_processed": 406,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "体制 事业编 行政编 公务员 国企 编制 公职 选调生 参公 考公 上岸",
@@ -17,8 +15,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时00分"
+          "appearance_count": 3,
+          "time_info": "[00时00分 ~ 01时35分]"
         }
       ]
     }
