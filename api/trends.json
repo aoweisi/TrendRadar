@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-13T01:03:05.749583+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-13T02:53:48.167082+08:00",
+  "total_titles_processed": 390,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E4%B8%AA%E8%A7%86%E9%A2%91%E8%AE%B2%E9%80%8F%E5%9B%9B%E5%A4%A7%E7%BC%96%E5%88%B6",
           "source": "bilibili 热搜",
           "ranks": [
-            20
+            20,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 01时03分]"
+          "appearance_count": 3,
+          "time_info": "[01时02分 ~ 02时53分]"
         },
         {
           "title": "根据“战争研究所”和“美国企业研究所”的数据，自伊朗战争开始以来，已有16艘民用船只（油轮、集装箱船和其他散货船）遭到袭击。",
@@ -25,7 +26,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时03分"
         }
