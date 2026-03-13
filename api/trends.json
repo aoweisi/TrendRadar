@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-13T19:31:48.280408+08:00",
-  "total_titles_processed": 1632,
+  "generated_at": "2026-03-13T20:57:01.266222+08:00",
+  "total_titles_processed": 1756,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             4,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时16分 ~ 19时31分]"
+          "appearance_count": 11,
+          "time_info": "[12时16分 ~ 20时57分]"
         },
         {
           "title": "一个视频讲透四大编制",
