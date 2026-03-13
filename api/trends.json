@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-13T07:28:18.969884+08:00",
-  "total_titles_processed": 626,
+  "generated_at": "2026-03-13T09:58:21.562722+08:00",
+  "total_titles_processed": 765,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             17,
             10,
             6,
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 07时28分]"
+          "appearance_count": 9,
+          "time_info": "[01时02分 ~ 09时58分]"
         },
         {
           "title": "日本最大的氦气供应商岩谷产业（Iwatani）表示，到目前为止，它对包括半导体制造商在内的客户保持了稳定供应，部分原因是其货源也来自美国，并在美日两地均有库存。",
@@ -29,7 +30,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
