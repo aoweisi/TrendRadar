@@ -1,89 +1,22 @@
 {
-  "generated_at": "2026-03-13T23:42:00.358630+08:00",
-  "total_titles_processed": 2056,
+  "generated_at": "2026-03-14T00:39:38.691409+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "体制 事业编 行政编 公务员 国企 编制 公职 选调生 参公 考公 上岸",
-      "match_count": 6,
+      "match_count": 1,
       "titles": [
         {
           "title": "又炒作?杨姐自称考公上岸",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351769&amp;topic_name=%E5%8F%88%E7%82%92%E4%BD%9C%3F%E6%9D%A8%E5%A7%90%E8%87%AA%E7%A7%B0%E8%80%83%E5%85%AC%E4%B8%8A%E5%B2%B8",
           "source": "贴吧",
           "ranks": [
-            4,
-            5,
-            7,
-            8,
-            9,
             10
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[12时16分 ~ 23时42分]"
-        },
-        {
-          "title": "一个视频讲透四大编制",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E4%B8%AA%E8%A7%86%E9%A2%91%E8%AE%B2%E9%80%8F%E5%9B%9B%E5%A4%A7%E7%BC%96%E5%88%B6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20,
-            17,
-            10,
-            6,
-            5,
-            8,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时02分 ~ 19时31分]"
-        },
-        {
-          "title": "日本最大的氦气供应商岩谷产业（Iwatani）表示，到目前为止，它对包括半导体制造商在内的客户保持了稳定供应，部分原因是其货源也来自美国，并在美日两地均有库存。",
-          "url": "https://wallstreetcn.com/livenews/3069196",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时28分"
-        },
-        {
-          "title": "韩国财政部长：韩国将利用额外税收收入编制补充预算，以缓解油价飙升对家庭和企业的冲击。",
-          "url": "https://wallstreetcn.com/livenews/3069614",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时38分 ~ 18时36分]"
-        },
-        {
-          "title": "国家金融监督管理总局机构恢复与处置司原一级巡视员刘炜被开除党籍、开除公职。",
-          "url": "https://wallstreetcn.com/livenews/3069604",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时38分"
-        },
-        {
-          "title": "根据“战争研究所”和“美国企业研究所”的数据，自伊朗战争开始以来，已有16艘民用船只（油轮、集装箱船和其他散货船）遭到袭击。",
-          "url": "https://flash.jin10.com/detail/20260313001730933800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时03分"
+          "time_info": "00时39分"
         }
       ]
     }
