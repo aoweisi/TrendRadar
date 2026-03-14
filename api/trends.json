@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-14T16:34:41.233051+08:00",
-  "total_titles_processed": 1147,
+  "generated_at": "2026-03-14T17:32:21.858464+08:00",
+  "total_titles_processed": 1221,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,12 @@
             16,
             17,
             20,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时39分 ~ 16时34分]"
+          "appearance_count": 19,
+          "time_info": "[00时39分 ~ 17时32分]"
         },
         {
           "title": "公务员省考年龄要求普遍放宽",
