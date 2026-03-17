@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-03-18T05:37:52.883775+08:00",
-  "total_titles_processed": 578,
+  "generated_at": "2026-03-18T06:39:15.565772+08:00",
+  "total_titles_processed": 625,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "体制 事业编 行政编 公务员 国企 编制 公职 选调生 参公 考公 上岸",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "媒体：雷思维落马与分管国企领域相关",
+          "url": "https://www.toutiao.com/trending/7618181284749348390/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时38分 ~ 06时39分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
