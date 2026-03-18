@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-18T18:53:00.565425+08:00",
-  "total_titles_processed": 1550,
+  "generated_at": "2026-03-18T19:45:02.218054+08:00",
+  "total_titles_processed": 1648,
   "failed_sources": [],
   "trends": [
     {
@@ -29,11 +29,12 @@
           "source": "微博",
           "ranks": [
             7,
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时54分 ~ 18时53分]"
+          "appearance_count": 6,
+          "time_info": "[17时54分 ~ 19时45分]"
         },
         {
           "title": "岑浩辉召开澳门特区“三五”规划编制工作会议",
