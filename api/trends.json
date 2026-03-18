@@ -1,88 +1,22 @@
 {
-  "generated_at": "2026-03-18T23:02:41.006156+08:00",
-  "total_titles_processed": 1909,
+  "generated_at": "2026-03-19T00:59:12.805251+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "体制 事业编 行政编 公务员 国企 编制 公职 选调生 参公 考公 上岸",
-      "match_count": 6,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "媒体：雷思维落马与分管国企领域相关",
-          "url": "https://www.toutiao.com/trending/7618181284749348390/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            9,
-            16,
-            2,
-            4,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时38分 ~ 17时55分]"
-        },
-        {
-          "title": "中国学生开始卷海外考公了",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%AD%A6%E7%94%9F%E5%BC%80%E5%A7%8B%E5%8D%B7%E6%B5%B7%E5%A4%96%E8%80%83%E5%85%AC%E4%BA%86%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7,
-            8,
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时54分 ~ 21时09分]"
-        },
         {
           "title": "广州中院考公事件中，考生 P 图扰乱竞争，这属于「兵不厌诈」还是「品行有亏」？",
           "url": "https://www.zhihu.com/question/2017292866343445699",
           "source": "知乎",
           "ranks": [
-            5,
-            3
+            2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时09分 ~ 23时02分]"
-        },
-        {
-          "title": "岑浩辉召开澳门特区“三五”规划编制工作会议",
-          "url": "https://wallstreetcn.com/livenews/3072281",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时48分 ~ 17时55分]"
-        },
-        {
-          "title": "甘肃农商行注册成立：注册资本逾449亿元，多家省属国企持股",
-          "url": "https://wallstreetcn.com/livenews/3072270",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时48分 ~ 17时55分]"
-        },
-        {
-          "title": "岑浩辉召开澳门特区“三五”规划编制工作会议",
-          "url": "https://flash.jin10.com/detail/20260318163601282800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时48分"
+          "time_info": "[00时58分 ~ 00时59分]"
         }
       ]
     }
