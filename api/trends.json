@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-18T21:09:30.398167+08:00",
-  "total_titles_processed": 1765,
+  "generated_at": "2026-03-18T23:02:41.006156+08:00",
+  "total_titles_processed": 1909,
   "failed_sources": [],
   "trends": [
     {
@@ -42,11 +42,12 @@
           "url": "https://www.zhihu.com/question/2017292866343445699",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时09分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时09分 ~ 23时02分]"
         },
         {
           "title": "岑浩辉召开澳门特区“三五”规划编制工作会议",
