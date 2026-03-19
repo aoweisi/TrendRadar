@@ -1,51 +1,7 @@
 {
-  "generated_at": "2026-03-19T23:55:28.915957+08:00",
-  "total_titles_processed": 2036,
+  "generated_at": "2026-03-20T00:57:43.612954+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "体制 事业编 行政编 公务员 国企 编制 公职 选调生 参公 考公 上岸",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "广州中院考公事件中，考生 P 图扰乱竞争，这属于「兵不厌诈」还是「品行有亏」？",
-          "url": "https://www.zhihu.com/question/2017292866343445699",
-          "source": "知乎",
-          "ranks": [
-            2,
-            3,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时58分 ~ 10时06分]"
-        },
-        {
-          "title": "央国企高端新能源汽车第一股上市",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E5%9B%BD%E4%BC%81%E9%AB%98%E7%AB%AF%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E7%AC%AC%E4%B8%80%E8%82%A1%E4%B8%8A%E5%B8%82",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时53分 ~ 15时03分]"
-        },
-        {
-          "title": "欧洲央行行长拉加德：欧洲央行编制的假设场景包括了不利的、严重的假设条件。 自2022年以来，央行就改善了诸多（场景假设）模型。",
-          "url": "https://wallstreetcn.com/livenews/3073420",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时49分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
