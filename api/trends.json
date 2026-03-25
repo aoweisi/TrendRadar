@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-25T18:49:11.599453+08:00",
-  "total_titles_processed": 1631,
+  "generated_at": "2026-03-25T19:41:53.539695+08:00",
+  "total_titles_processed": 1713,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "体制 事业编 行政编 公务员 国企 编制 公职 选调生 参公 考公 上岸",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "南向资金今日大幅净买入223.23亿元。港股通（沪）方面，盈富基金、恒生中国企业分别获净买入81.06亿港元、19.96亿港元；美团-W净卖出额居首，金额为1.69亿港元；港股通（深）方面，盈富基金、美团-W分别获净买入32.75亿港元、18.88亿港元；中国海洋石油净卖出额居首，金额为14.2亿港元。",
@@ -28,6 +28,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
+        },
+        {
+          "title": "据日本共同社报道称，日本政府正准备编制一项规模约8万亿日元的临时预算案。",
+          "url": "https://flash.jin10.com/detail/20260325185955184800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
         },
         {
           "title": "IFO：德国企业信心指数在三月份显著下降",
