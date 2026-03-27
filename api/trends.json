@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-27T17:54:35.492624+08:00",
-  "total_titles_processed": 1447,
+  "generated_at": "2026-03-27T18:48:47.726197+08:00",
+  "total_titles_processed": 1546,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             19,
             15,
             11,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时06分 ~ 17时54分]"
+          "appearance_count": 5,
+          "time_info": "[13时06分 ~ 18时48分]"
         },
         {
           "title": "店主举报公职人员后喝农药 13人被处理",
@@ -28,11 +29,23 @@
           "ranks": [
             21,
             24,
-            22
+            22,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时06分 ~ 17时54分]"
+          "appearance_count": 5,
+          "time_info": "[13时06分 ~ 18时48分]"
+        },
+        {
+          "title": "官方通报湖南郴州烟花店燃爆事件，店主犯罪后喝农药自杀，13 名公职人员被处理，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2020830335370358895",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时54分 ~ 18时48分]"
         },
         {
           "title": "洞庭湖边失联女子遗体已打捞上岸",
@@ -44,17 +57,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时11分 ~ 10时12分]"
-        },
-        {
-          "title": "官方通报湖南郴州烟花店燃爆事件，店主犯罪后喝农药自杀，13 名公职人员被处理，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2020830335370358895",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时54分"
         },
         {
           "title": "特斯拉发布自行编制的一季度交付预期，卖方分析师们预计交付365,645辆。 特斯拉将于下周披露2026年一季度交付预期。",
