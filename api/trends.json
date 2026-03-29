@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-29T18:32:47.614816+08:00",
-  "total_titles_processed": 1115,
+  "generated_at": "2026-03-29T19:28:46.483094+08:00",
+  "total_titles_processed": 1175,
   "failed_sources": [],
   "trends": [
     {
@@ -14,9 +14,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时32分 ~ 19时28分]"
         },
         {
           "title": "沙特产业界人士在中关村向中国企业释放合作信号",
