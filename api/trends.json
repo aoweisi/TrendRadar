@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-03-30T22:27:04.971681+08:00",
-  "total_titles_processed": 1586,
+  "generated_at": "2026-03-31T00:06:02.124090+08:00",
+  "total_titles_processed": 304,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "体制 事业编 行政编 公务员 国企 编制 公职 选调生 参公 考公 上岸",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "世界最大直径高铁盾构机“领航号”成功“上岸”",
-          "url": "https://wallstreetcn.com/livenews/3078959",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时24分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
