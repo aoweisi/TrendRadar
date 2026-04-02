@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-04-02T16:56:05.834331+08:00",
-  "total_titles_processed": 1301,
+  "generated_at": "2026-04-02T18:02:25.328750+08:00",
+  "total_titles_processed": 1413,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "体制 事业编 行政编 公务员 国企 编制 公职 选调生 参公 考公 上岸",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "南向资金今日大幅净买入198.28亿元。港股通（沪）方面，盈富基金、恒生中国企业分别获净买入67.68亿港元、13.44亿港元；中国海洋石油净卖出额居首，金额为13.66亿港元；港股通（深）方面，盈富基金、恒生中国企业分别获净买入17.78亿港元、12.5亿港元；阿里巴巴-W净卖出额居首，金额为2.59亿港元。",
+          "url": "https://flash.jin10.com/detail/20260402173122878800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
+        },
         {
           "title": "英国央行：2月份，英国企业预计工资将上涨3.6%。",
           "url": "https://flash.jin10.com/detail/20260402163400640800",
@@ -14,7 +25,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时56分"
         }
