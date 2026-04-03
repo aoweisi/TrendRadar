@@ -1,26 +1,7 @@
 {
-  "generated_at": "2026-04-03T23:39:00.714328+08:00",
-  "total_titles_processed": 1968,
+  "generated_at": "2026-04-04T00:39:22.640372+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "体制 事业编 行政编 公务员 国企 编制 公职 选调生 参公 考公 上岸",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "中证指数修订中证华福福建100指数编制方案",
-          "url": "https://wallstreetcn.com/livenews/3082108",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时53分 ~ 18时42分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
