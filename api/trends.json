@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-04-04T10:03:16.846374+08:00",
-  "total_titles_processed": 694,
+  "generated_at": "2026-04-04T12:49:43.913376+08:00",
+  "total_titles_processed": 841,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "体制 事业编 行政编 公务员 国企 编制 公职 选调生 参公 考公 上岸",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "打人董事长所在国企迎来新任董事长",
+          "url": "https://www.toutiao.com/trending/7624374274564227108/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
