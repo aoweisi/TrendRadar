@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-04-07T23:07:15.458254+08:00",
-  "total_titles_processed": 1837,
+  "generated_at": "2026-04-08T00:58:31.615419+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "体制 事业编 行政编 公务员 国企 编制 公职 选调生 参公 考公 上岸",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "工信部：根据行业标准制修订计划，相关标准化技术组织已完成通信行业《电信和互联网软件供应链安全 软件服务供应链安全要求》等62项行业标准的编制工作。为进一步听取社会各界意见，现予以公示。",
-          "url": "https://flash.jin10.com/detail/20260407175130189800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时15分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
