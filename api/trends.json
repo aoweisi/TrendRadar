@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-11T06:36:37.924830+08:00",
-  "total_titles_processed": 580,
+  "generated_at": "2026-04-11T07:35:03.770167+08:00",
+  "total_titles_processed": 614,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,27 @@
           "url": "https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E4%B8%80%E9%AB%98%E6%A0%A1%E9%9B%A8%E5%90%8E10%E6%96%A4%E9%B2%A4%E9%B1%BC%E4%B8%8A%E5%B2%B8",
           "source": "百度热搜",
           "ranks": [
-            6
+            6,
+            18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时51分 ~ 06时36分]"
+          "appearance_count": 12,
+          "time_info": "[00时51分 ~ 07时35分]"
+        },
+        {
+          "title": "武汉雨后10斤鲤鱼上岸目击者发声",
+          "url": "https://www.toutiao.com/trending/7626894011713912838/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            9,
+            27,
+            21,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时51分 ~ 07时35分]"
         },
         {
           "title": "特朗普推动芯片出口的计划或正受阻于官僚体制",
@@ -28,20 +44,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
-        },
-        {
-          "title": "武汉雨后10斤鲤鱼上岸目击者发声",
-          "url": "https://www.toutiao.com/trending/7626894011713912838/",
-          "source": "今日头条",
-          "ranks": [
-            30,
-            9,
-            27,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时51分 ~ 06时36分]"
         },
         {
           "title": "报道：特朗普推动芯片出口的计划或正受阻于官僚体制",
