@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-04-11T02:52:11.366952+08:00",
-  "total_titles_processed": 430,
+  "generated_at": "2026-04-11T03:43:54.370988+08:00",
+  "total_titles_processed": 469,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "体制 事业编 行政编 公务员 国企 编制 公职 选调生 参公 考公 上岸",
       "match_count": 4,
       "titles": [
+        {
+          "title": "武汉一高校雨后10斤鲤鱼上岸",
+          "url": "https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E4%B8%80%E9%AB%98%E6%A0%A1%E9%9B%A8%E5%90%8E10%E6%96%A4%E9%B2%A4%E9%B1%BC%E4%B8%8A%E5%B2%B8",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时51分 ~ 03时43分]"
+        },
         {
           "title": "特朗普推动芯片出口的计划或正受阻于官僚体制",
           "url": "https://flash.jin10.com/detail/20260411013302688800",
@@ -19,27 +30,17 @@
           "time_info": "01时48分"
         },
         {
-          "title": "武汉一高校雨后10斤鲤鱼上岸",
-          "url": "https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E4%B8%80%E9%AB%98%E6%A0%A1%E9%9B%A8%E5%90%8E10%E6%96%A4%E9%B2%A4%E9%B1%BC%E4%B8%8A%E5%B2%B8",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时51分 ~ 02时52分]"
-        },
-        {
           "title": "报道：特朗普推动芯片出口的计划或正受阻于官僚体制",
           "url": "https://wallstreetcn.com/livenews/3086048",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            10
+            10,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时48分 ~ 02时52分]"
+          "appearance_count": 3,
+          "time_info": "[01时48分 ~ 03时43分]"
         },
         {
           "title": "武汉雨后10斤鲤鱼上岸目击者发声",
