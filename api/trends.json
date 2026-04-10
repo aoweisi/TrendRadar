@@ -1,58 +1,33 @@
 {
-  "generated_at": "2026-04-10T23:53:28.200326+08:00",
-  "total_titles_processed": 1899,
+  "generated_at": "2026-04-11T00:51:19.952627+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "体制 事业编 行政编 公务员 国企 编制 公职 选调生 参公 考公 上岸",
-      "match_count": 4,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "武汉雨后10斤鲤鱼上岸目击者发声",
-          "url": "https://www.toutiao.com/trending/7626894011713912838/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            23,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时07分 ~ 23时53分]"
-        },
         {
           "title": "武汉一高校雨后10斤鲤鱼上岸",
           "url": "https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E4%B8%80%E9%AB%98%E6%A0%A1%E9%9B%A8%E5%90%8E10%E6%96%A4%E9%B2%A4%E9%B1%BC%E4%B8%8A%E5%B2%B8",
           "source": "百度热搜",
           "ranks": [
-            25,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时47分 ~ 23时53分]"
-        },
-        {
-          "title": "【证监会：推出更多创业板相关ETF和期权，适时推出创业板股指期货】中国证监会新闻发言人就《关于深化创业板改革 更好服务新质生产力发展的意见》答记者问：加快推进投资端改革，是健全投资和融资相协调的资本市场功能、支持服务实体经济的重要一环。这次改革主要推出了以下举措。一是优化交易制度。引入做市商制度，促进创业板参与主体和交易策略多元化，减少价格波动，增强市场韧性。将协议大宗交易调整为实时成交确认，提高投资者证券和资金使用效率，增强成交确定性和中长期资金参与意愿。引入创业板相关ETF盘后固定价格交易机制，更好满足投资者多元化的交易需求，有利于降低大额交易对二级市场的冲击。二是丰富产品服务体系。优化创业板相关指数编制，推出更多创业板相关ETF和期权，适时推出创业板股指期货，支持基金投顾配置创业板ETF，将创业板ETF纳入基金通平台转让，更好满足不同投资者资产配置和风险管理需求，提升投资便利度和吸引力。",
-          "url": "https://wallstreetcn.com/livenews/3085718",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时08分"
+          "time_info": "00时51分"
         },
         {
-          "title": "白宫发电邮警告公务员：严禁利用职务之便进行期货投机交易",
-          "url": "https://wallstreetcn.com/livenews/3085357",
-          "source": "华尔街见闻-快讯",
+          "title": "武汉雨后10斤鲤鱼上岸目击者发声",
+          "url": "https://www.toutiao.com/trending/7626894011713912838/",
+          "source": "今日头条",
           "ranks": [
-            24
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时37分"
+          "time_info": "00时51分"
         }
       ]
     }
