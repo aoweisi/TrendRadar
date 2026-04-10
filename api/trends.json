@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-11T03:43:54.370988+08:00",
-  "total_titles_processed": 469,
+  "generated_at": "2026-04-11T04:36:02.181645+08:00",
+  "total_titles_processed": 526,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时51分 ~ 03时43分]"
+          "appearance_count": 8,
+          "time_info": "[00时51分 ~ 04时36分]"
         },
         {
           "title": "特朗普推动芯片出口的计划或正受阻于官僚体制",
@@ -47,11 +47,12 @@
           "url": "https://www.toutiao.com/trending/7626894011713912838/",
           "source": "今日头条",
           "ranks": [
-            30
+            30,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时51分"
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 04时36分]"
         }
       ]
     }
