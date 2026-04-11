@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-11T07:35:03.770167+08:00",
-  "total_titles_processed": 614,
+  "generated_at": "2026-04-11T10:06:51.595708+08:00",
+  "total_titles_processed": 755,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "百度热搜",
           "ranks": [
             6,
-            18
+            18,
+            21
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时51分 ~ 07时35分]"
+          "appearance_count": 13,
+          "time_info": "[00时51分 ~ 10时06分]"
         },
         {
           "title": "武汉雨后10斤鲤鱼上岸目击者发声",
