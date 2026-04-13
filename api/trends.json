@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-04-14T06:42:56.412518+08:00",
-  "total_titles_processed": 610,
+  "generated_at": "2026-04-14T07:42:14.793789+08:00",
+  "total_titles_processed": 683,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "体制 事业编 行政编 公务员 国企 编制 公职 选调生 参公 考公 上岸",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "峰回路转，考研卡尔疑进入北邮调剂复试名单，他有希望上岸北邮吗？",
+          "url": "https://www.zhihu.com/question/2026127292129174973",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时41分 ~ 07时42分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
