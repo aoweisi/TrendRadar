@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-14T13:23:07.221105+08:00",
-  "total_titles_processed": 1036,
+  "generated_at": "2026-04-14T15:43:35.171308+08:00",
+  "total_titles_processed": 1187,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "体制 事业编 行政编 公务员 国企 编制 公职 选调生 参公 考公 上岸",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "一波三折，考研卡尔被曝北邮调剂复试被刷，进入厦大复试名单，他有希望上岸吗？",
@@ -29,6 +29,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时41分 ~ 07时42分]"
+        },
+        {
+          "title": "一波三折，考研卡尔北邮厦大调剂复试相继被刷，他今年还有希望上岸吗？",
+          "url": "https://www.zhihu.com/question/2026127292129174973",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时43分"
         }
       ]
     }
