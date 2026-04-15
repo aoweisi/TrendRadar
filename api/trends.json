@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-16T05:52:29.076639+08:00",
-  "total_titles_processed": 527,
+  "generated_at": "2026-04-16T06:41:14.724985+08:00",
+  "total_titles_processed": 557,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.toutiao.com/trending/7628471937186250806/",
           "source": "今日头条",
           "ranks": [
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 05时52分]"
+          "appearance_count": 4,
+          "time_info": "[01时03分 ~ 06时41分]"
         },
         {
           "title": "中国和西班牙推动两国企业深化科技创新和产供链合作",
