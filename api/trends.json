@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-04-16T10:33:09.547275+08:00",
-  "total_titles_processed": 814,
+  "generated_at": "2026-04-16T13:31:25.916052+08:00",
+  "total_titles_processed": 977,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "体制 事业编 行政编 公务员 国企 编制 公职 选调生 参公 考公 上岸",
       "match_count": 5,
       "titles": [
+        {
+          "title": "观察丨广交会境外采购商超21万，采购商们为何青睐中国企业？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32977876",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时32分 ~ 13时31分]"
+        },
         {
           "title": "月薪4500的国企值得去吗",
           "url": "https://www.toutiao.com/trending/7628471937186250806/",
@@ -18,17 +30,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时03分 ~ 06时41分]"
-        },
-        {
-          "title": "观察丨广交会境外采购商超21万，采购商们为何青睐中国企业？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32977876",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时32分 ~ 10时33分]"
         },
         {
           "title": "中国和西班牙推动两国企业深化科技创新和产供链合作",
