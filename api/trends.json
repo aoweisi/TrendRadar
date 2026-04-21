@@ -1,7 +1,9 @@
 {
-  "generated_at": "2026-04-21T07:42:00.510185+08:00",
-  "total_titles_processed": 701,
-  "failed_sources": [],
+  "generated_at": "2026-04-21T10:31:14.419454+08:00",
+  "total_titles_processed": 873,
+  "failed_sources": [
+    "tieba"
+  ],
   "trends": [
     {
       "keyword_group": "体制 事业编 行政编 公务员 国企 编制 公职 选调生 参公 考公 上岸",
