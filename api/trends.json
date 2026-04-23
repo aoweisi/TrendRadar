@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-23T19:08:00.236353+08:00",
-  "total_titles_processed": 1458,
+  "generated_at": "2026-04-23T21:26:43.800369+08:00",
+  "total_titles_processed": 1609,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "ranks": [
             18,
             16,
-            14
+            14,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时51分 ~ 19时08分]"
+          "appearance_count": 5,
+          "time_info": "[15时51分 ~ 21时26分]"
         },
         {
           "title": "特斯拉(TSLA.O)：正在扩大制造范围，包括在人工智能推理计算中进行半导体制造。",
