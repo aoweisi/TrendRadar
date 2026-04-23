@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-24T03:06:44.324758+08:00",
-  "total_titles_processed": 408,
+  "generated_at": "2026-04-24T04:52:11.863463+08:00",
+  "total_titles_processed": 475,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时19分 ~ 03时06分]"
+          "appearance_count": 4,
+          "time_info": "[01时19分 ~ 04时52分]"
         },
         {
           "title": "tplink神发言:我们是美国企业",
@@ -27,8 +27,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时19分 ~ 03时06分]"
+          "appearance_count": 4,
+          "time_info": "[01时19分 ~ 04时52分]"
         }
       ]
     }
