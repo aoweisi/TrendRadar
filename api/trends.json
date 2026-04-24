@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-24T07:44:12.282561+08:00",
-  "total_titles_processed": 657,
+  "generated_at": "2026-04-24T10:32:22.380372+08:00",
+  "total_titles_processed": 849,
   "failed_sources": [],
   "trends": [
     {
@@ -14,22 +14,24 @@
           "ranks": [
             7,
             6,
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时19分 ~ 07时44分]"
+          "appearance_count": 9,
+          "time_info": "[01时19分 ~ 10时32分]"
         },
         {
           "title": "tplink神发言:我们是美国企业",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353669&amp;topic_name=tplink%E7%A5%9E%E5%8F%91%E8%A8%80%3A%E6%88%91%E4%BB%AC%E6%98%AF%E7%BE%8E%E5%9B%BD%E4%BC%81%E4%B8%9A",
           "source": "贴吧",
           "ranks": [
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时19分 ~ 07时44分]"
+          "appearance_count": 9,
+          "time_info": "[01时19分 ~ 10时32分]"
         }
       ]
     }
