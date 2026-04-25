@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T07:39:08.316859+08:00",
-  "total_titles_processed": 584,
+  "generated_at": "2026-04-25T10:14:22.147078+08:00",
+  "total_titles_processed": 737,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353669&amp;topic_name=tplink%E7%A5%9E%E5%8F%91%E8%A8%80%3A%E6%88%91%E4%BB%AC%E6%98%AF%E7%BE%8E%E5%9B%BD%E4%BC%81%E4%B8%9A",
           "source": "贴吧",
           "ranks": [
-            27
+            27,
+            30
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时55分 ~ 07时39分]"
+          "appearance_count": 11,
+          "time_info": "[00时55分 ~ 10时14分]"
         }
       ]
     }
