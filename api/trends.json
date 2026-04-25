@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-26T02:52:10.704043+08:00",
-  "total_titles_processed": 401,
+  "generated_at": "2026-04-26T03:43:47.914117+08:00",
+  "total_titles_processed": 433,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 02时52分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 03时43分]"
         },
         {
           "title": "欧盟第20轮对俄制裁列单中国企业，商务部回应",
@@ -25,11 +25,12 @@
           "ranks": [
             20,
             19,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 02时52分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 03时43分]"
         },
         {
           "title": "“豆包提前查到2026山东事业编成绩”？最新回应",
@@ -37,11 +38,12 @@
           "source": "澎湃新闻",
           "ranks": [
             18,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 02时52分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 03时43分]"
         },
         {
           "title": "商务部新闻发言人就欧盟第20轮对俄制裁列单中国企业答记者问",
@@ -51,8 +53,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 02时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 03时43分]"
         }
       ]
     }
