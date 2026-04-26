@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-26T19:39:18.360580+08:00",
-  "total_titles_processed": 1142,
+  "generated_at": "2026-04-26T21:04:16.421120+08:00",
+  "total_titles_processed": 1265,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "体制 事业编 行政编 公务员 国企 编制 公职 选调生 参公 考公 上岸",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "欧盟对俄制裁列单中国企业，商务部回应",
@@ -56,8 +56,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时37分 ~ 17时02分]"
+          "appearance_count": 9,
+          "time_info": "[07时37分 ~ 21时04分]"
         },
         {
           "title": "商务部新闻发言人就欧盟第20轮对俄制裁列单中国企业答记者问",
@@ -72,6 +72,18 @@
           "time_info": "[00时40分 ~ 07时37分]"
         },
         {
+          "title": "周末要闻汇总：欧盟对俄制裁列单中国企业，中方发声；宁王重登主动基金头号重仓股",
+          "url": "https://www.cls.cn/detail/2355924",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时39分 ~ 21时04分]"
+        },
+        {
           "title": "欧盟对俄制裁列单中国企业 中方回应",
           "url": "https://www.baidu.com/s?wd=%E6%AC%A7%E7%9B%9F%E5%AF%B9%E4%BF%84%E5%88%B6%E8%A3%81%E5%88%97%E5%8D%95%E4%B8%AD%E5%9B%BD%E4%BC%81%E4%B8%9A+%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94",
           "source": "百度热搜",
@@ -83,15 +95,15 @@
           "time_info": "07时37分"
         },
         {
-          "title": "周末要闻汇总：欧盟对俄制裁列单中国企业，中方发声；宁王重登主动基金头号重仓股",
-          "url": "https://www.cls.cn/detail/2355924",
-          "source": "财联社热门",
+          "title": "缅甸强震一周年：首都公务员仍住帐篷",
+          "url": "https://news.ifeng.com/c/8se2MhzPray",
+          "source": "凤凰网",
           "ranks": [
-            11
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时39分"
+          "time_info": "21时04分"
         }
       ]
     }
