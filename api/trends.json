@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-26T17:02:00.725328+08:00",
-  "total_titles_processed": 1010,
+  "generated_at": "2026-04-26T18:02:34.444470+08:00",
+  "total_titles_processed": 1064,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
             19,
             17,
             16,
-            18
+            18,
+            15
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时40分 ~ 17时02分]"
+          "appearance_count": 19,
+          "time_info": "[00时40分 ~ 18时02分]"
         },
         {
           "title": "“豆包提前查到2026山东事业编成绩”？最新回应",
