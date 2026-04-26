@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-26T18:02:34.444470+08:00",
-  "total_titles_processed": 1064,
+  "generated_at": "2026-04-26T19:39:18.360580+08:00",
+  "total_titles_processed": 1142,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "体制 事业编 行政编 公务员 国企 编制 公职 选调生 参公 考公 上岸",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "欧盟对俄制裁列单中国企业，商务部回应",
@@ -31,8 +31,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时40分 ~ 18时02分]"
+          "appearance_count": 20,
+          "time_info": "[00时40分 ~ 19时39分]"
         },
         {
           "title": "“豆包提前查到2026山东事业编成绩”？最新回应",
@@ -81,6 +81,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时37分"
+        },
+        {
+          "title": "周末要闻汇总：欧盟对俄制裁列单中国企业，中方发声；宁王重登主动基金头号重仓股",
+          "url": "https://www.cls.cn/detail/2355924",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
         }
       ]
     }
