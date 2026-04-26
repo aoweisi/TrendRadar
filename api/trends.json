@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-27T05:37:36.654340+08:00",
-  "total_titles_processed": 425,
+  "generated_at": "2026-04-27T06:37:38.549769+08:00",
+  "total_titles_processed": 457,
   "failed_sources": [],
   "trends": [
     {
@@ -13,22 +13,24 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时41分 ~ 05时37分]"
+          "appearance_count": 7,
+          "time_info": "[00时41分 ~ 06时37分]"
         },
         {
           "title": "“豆包提前查到2026山东事业编成绩”？最新回应",
           "url": "https://www.cls.cn/detail/2355714",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时41分 ~ 05时37分]"
+          "appearance_count": 7,
+          "time_info": "[00时41分 ~ 06时37分]"
         },
         {
           "title": "体制内如何快速提高自己的的公文写作水平？",
