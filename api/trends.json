@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-27T19:03:50.337289+08:00",
-  "total_titles_processed": 1185,
+  "generated_at": "2026-04-27T21:51:45.664839+08:00",
+  "total_titles_processed": 1355,
   "failed_sources": [],
   "trends": [
     {
@@ -33,24 +33,24 @@
           "time_info": "[00时41分 ~ 06时37分]"
         },
         {
-          "title": "女子溺水被救上岸 众人合力救助",
-          "url": "https://www.toutiao.com/trending/7632522166981967882/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时23分 ~ 19时03分]"
-        },
-        {
           "title": "外交部回应美国制裁中企：将坚决维护本国企业的合法权益",
           "url": "https://www.cls.cn/detail/2356631",
           "source": "财联社热门",
           "ranks": [
             12,
             4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时23分 ~ 21时51分]"
+        },
+        {
+          "title": "女子溺水被救上岸 众人合力救助",
+          "url": "https://www.toutiao.com/trending/7632522166981967882/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -88,7 +88,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时03分"
         }
