@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-29T16:15:04.569369+08:00",
-  "total_titles_processed": 1147,
+  "generated_at": "2026-04-29T18:56:16.482570+08:00",
+  "total_titles_processed": 1324,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "体制 事业编 行政编 公务员 国企 编制 公职 选调生 参公 考公 上岸",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "香港恒生指数4月29日（周三）收盘上涨432.06点，涨幅1.68%，报26111.84点；<br/>香港恒生科技指数4月29日（周三）收盘上涨82.83点，涨幅1.72%，报4910.02点；<br/>国企指数4月29日（周三）收盘上涨160.79点，涨幅1.86%，报8805.6点；<br/>红筹指数4月29日（周三）收盘上涨104.61点，涨幅2.41%，报4441.31点。",
@@ -14,9 +14,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时15分"
+        },
+        {
+          "title": "公职人员4万购入黄永玉假画卖180万",
+          "url": "https://www.baidu.com/s?wd=%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%984%E4%B8%87%E8%B4%AD%E5%85%A5%E9%BB%84%E6%B0%B8%E7%8E%89%E5%81%87%E7%94%BB%E5%8D%96180%E4%B8%87",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时56分"
         }
       ]
     }
