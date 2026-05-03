@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-04T02:58:51.806134+08:00",
-  "total_titles_processed": 383,
+  "generated_at": "2026-05-04T03:56:35.000994+08:00",
+  "total_titles_processed": 394,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时49分 ~ 02时58分]"
+          "appearance_count": 4,
+          "time_info": "[00时49分 ~ 03时56分]"
         },
         {
           "title": "商务部发布禁令，阻断美国对5家中国企业实施涉伊朗石油制裁措施",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时49分 ~ 02时58分]"
+          "appearance_count": 4,
+          "time_info": "[00时49分 ~ 03时56分]"
         }
       ]
     }
