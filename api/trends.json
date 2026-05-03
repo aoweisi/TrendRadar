@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-03T18:03:49.662914+08:00",
-  "total_titles_processed": 979,
+  "generated_at": "2026-05-03T19:42:06.085452+08:00",
+  "total_titles_processed": 1088,
   "failed_sources": [],
   "trends": [
     {
@@ -21,8 +21,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时44分 ~ 18时03分]"
+          "appearance_count": 19,
+          "time_info": "[00时44分 ~ 19时42分]"
         },
         {
           "title": "【早报】伊朗公布伊方最新谈判方案；商务部发布禁令阻断美国对5家中国企业实施涉伊朗石油制裁措施",
@@ -30,11 +30,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时46分 ~ 18时03分]"
+          "appearance_count": 7,
+          "time_info": "[10时46分 ~ 19时42分]"
         },
         {
           "title": "商务部新闻发言人就阻断美国对5家中国企业实施涉伊朗石油制裁措施答记者问",
