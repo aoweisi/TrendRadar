@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-04T06:40:15.007928+08:00",
-  "total_titles_processed": 474,
+  "generated_at": "2026-05-04T07:44:06.154372+08:00",
+  "total_titles_processed": 516,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "体制 事业编 行政编 公务员 国企 编制 公职 选调生 参公 考公 上岸",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "【早报】伊朗公布伊方最新谈判方案；商务部发布禁令阻断美国对5家中国企业实施涉伊朗石油制裁措施",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时49分 ~ 06时40分]"
+          "appearance_count": 10,
+          "time_info": "[00时49分 ~ 07时44分]"
         },
         {
           "title": "商务部发布禁令，阻断美国对5家中国企业实施涉伊朗石油制裁措施",
@@ -28,8 +28,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时49分 ~ 06时40分]"
+          "appearance_count": 10,
+          "time_info": "[00时49分 ~ 07时44分]"
+        },
+        {
+          "title": "九江多地倡议公职人员党员干部带头缴纳物业费：杜绝拒缴激化矛盾",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33095444",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时43分 ~ 07时44分]"
         }
       ]
     }
