@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-04T19:48:23.533762+08:00",
-  "total_titles_processed": 1205,
+  "generated_at": "2026-05-04T21:57:44.264068+08:00",
+  "total_titles_processed": 1335,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时49分 ~ 19时48分]"
+          "appearance_count": 15,
+          "time_info": "[00时49分 ~ 21时57分]"
         },
         {
           "title": "商务部发布禁令，阻断美国对5家中国企业实施涉伊朗石油制裁措施",
@@ -30,8 +30,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时49分 ~ 19时48分]"
+          "appearance_count": 15,
+          "time_info": "[00时49分 ~ 21时57分]"
         },
         {
           "title": "九江多地倡议公职人员党员干部带头缴纳物业费：杜绝拒缴激化矛盾",
@@ -52,11 +52,12 @@
           "source": "微博",
           "ranks": [
             5,
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时17分 ~ 19时48分]"
+          "appearance_count": 3,
+          "time_info": "[17时17分 ~ 21时57分]"
         },
         {
           "title": "多地倡议公职人员带头缴纳物业费",
