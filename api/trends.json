@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-05T13:43:28.013914+08:00",
-  "total_titles_processed": 935,
+  "generated_at": "2026-05-05T16:16:44.160873+08:00",
+  "total_titles_processed": 1068,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,19 @@
           "time_info": "[00时03分 ~ 10时37分]"
         },
         {
+          "title": "多地倡议公职人员带头缴纳物业费，如何看待这一举措？",
+          "url": "https://www.zhihu.com/question/2034615270451458303",
+          "source": "知乎",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时37分 ~ 16时16分]"
+        },
+        {
           "title": "商务部发布禁令，阻断美国对5家中国企业实施涉伊朗石油制裁措施",
           "url": "https://www.cls.cn/detail/2362134",
           "source": "财联社热门",
@@ -28,18 +41,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时03分 ~ 02时14分]"
-        },
-        {
-          "title": "多地倡议公职人员带头缴纳物业费，如何看待这一举措？",
-          "url": "https://www.zhihu.com/question/2034615270451458303",
-          "source": "知乎",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时37分 ~ 13时43分]"
         }
       ]
     }
