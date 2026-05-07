@@ -1,33 +1,22 @@
 {
-  "generated_at": "2026-05-07T22:08:28.322611+08:00",
-  "total_titles_processed": 1469,
+  "generated_at": "2026-05-08T00:49:32.417984+08:00",
+  "total_titles_processed": 306,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "体制 事业编 行政编 公务员 国企 编制 公职 选调生 参公 考公 上岸",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
-          "title": "新疆维吾尔自治区政协原党组成员、副主席金之镇严重违纪违法被开除党籍和公职。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3099691",
-          "source": "华尔街见闻-快讯",
+          "title": "多地发文催公职人员交物业费说明什么",
+          "url": "https://www.toutiao.com/trending/7637143916751359515/",
+          "source": "今日头条",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时44分"
-        },
-        {
-          "title": "涉疫“洪迪厄斯”号邮轮上有30名乘客在病例被发现前已上岸",
-          "url": "https://wallstreetcn.com/livenews/3099942",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时47分"
+          "time_info": "00时49分"
         }
       ]
     }
