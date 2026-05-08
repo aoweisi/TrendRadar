@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-08T10:49:02.488484+08:00",
-  "total_titles_processed": 741,
+  "generated_at": "2026-05-08T13:29:39.807099+08:00",
+  "total_titles_processed": 907,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "体制 事业编 行政编 公务员 国企 编制 公职 选调生 参公 考公 上岸",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "多地发文催公职人员交物业费说明什么",
@@ -21,6 +21,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时49分 ~ 07时02分]"
+        },
+        {
+          "title": "经纬度：公职人员带头，能否破解物业收费难",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33120249",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
         }
       ]
     }
