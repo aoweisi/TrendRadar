@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-08T21:45:04.733766+08:00",
-  "total_titles_processed": 1509,
+  "generated_at": "2026-05-08T23:21:29.679586+08:00",
+  "total_titles_processed": 1649,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             13,
             12,
             10,
-            8
+            8,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时29分 ~ 21时45分]"
+          "appearance_count": 9,
+          "time_info": "[13时29分 ~ 23时21分]"
         },
         {
           "title": "多地发文催公职人员交物业费说明什么",
