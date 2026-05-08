@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-08T17:24:02.561491+08:00",
-  "total_titles_processed": 1198,
+  "generated_at": "2026-05-08T19:14:01.698581+08:00",
+  "total_titles_processed": 1338,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "体制 事业编 行政编 公务员 国企 编制 公职 选调生 参公 考公 上岸",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "多地发文催公职人员交物业费说明什么",
@@ -29,11 +29,23 @@
           "ranks": [
             20,
             13,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时29分 ~ 17时24分]"
+          "appearance_count": 6,
+          "time_info": "[13时29分 ~ 19时14分]"
+        },
+        {
+          "title": "公务员垂钓溺亡 家属举报镇干部违纪",
+          "url": "https://www.baidu.com/s?wd=%E5%85%AC%E5%8A%A1%E5%91%98%E5%9E%82%E9%92%93%E6%BA%BA%E4%BA%A1+%E5%AE%B6%E5%B1%9E%E4%B8%BE%E6%8A%A5%E9%95%87%E5%B9%B2%E9%83%A8%E8%BF%9D%E7%BA%AA",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时13分 ~ 19时14分]"
         }
       ]
     }
