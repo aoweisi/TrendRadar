@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-05-12T07:57:39.838730+08:00",
-  "total_titles_processed": 611,
+  "generated_at": "2026-05-12T11:26:08.147328+08:00",
+  "total_titles_processed": 816,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "体制 事业编 行政编 公务员 国企 编制 公职 选调生 参公 考公 上岸",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "国企人员出国考察 被引入色情场所",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E4%BC%81%E4%BA%BA%E5%91%98%E5%87%BA%E5%9B%BD%E8%80%83%E5%AF%9F+%E8%A2%AB%E5%BC%95%E5%85%A5%E8%89%B2%E6%83%85%E5%9C%BA%E6%89%80",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时25分 ~ 11时26分]"
+        },
         {
           "title": "一波金融精英“上岸”证监会！公示名单有看点",
           "url": "https://www.cls.cn/detail/2368096",
