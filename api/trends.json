@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-13T03:56:34.543134+08:00",
-  "total_titles_processed": 395,
+  "generated_at": "2026-05-13T05:19:33.955874+08:00",
+  "total_titles_processed": 458,
   "failed_sources": [],
   "trends": [
     {
@@ -16,19 +16,20 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时11分 ~ 03时56分]"
+          "appearance_count": 3,
+          "time_info": "[01时11分 ~ 05时19分]"
         },
         {
           "title": "偷拍男生拟录公务员？江苏税务回应",
           "url": "https://www.toutiao.com/trending/7639009717288979978/",
           "source": "今日头条",
           "ranks": [
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时11分 ~ 03时56分]"
+          "appearance_count": 3,
+          "time_info": "[01时11分 ~ 05时19分]"
         },
         {
           "title": "江苏税务回应偷拍男生拟录公务员",
@@ -36,11 +37,12 @@
           "source": "微博",
           "ranks": [
             17,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时11分 ~ 03时56分]"
+          "appearance_count": 3,
+          "time_info": "[01时11分 ~ 05时19分]"
         },
         {
           "title": "当地回应偷拍裙底男生已拟录公务员",
@@ -49,7 +51,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时56分"
         }
