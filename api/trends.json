@@ -1,12 +1,45 @@
 {
-  "generated_at": "2026-05-14T14:46:09.198849+08:00",
-  "total_titles_processed": 1016,
+  "generated_at": "2026-05-14T17:42:52.341517+08:00",
+  "total_titles_processed": 1177,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "体制 事业编 行政编 公务员 国企 编制 公职 选调生 参公 考公 上岸",
-      "match_count": 1,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "习近平会见美国企业家",
+          "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BC%9A%E8%A7%81%E7%BE%8E%E5%9B%BD%E4%BC%81%E4%B8%9A%E5%AE%B6",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
+        },
+        {
+          "title": "习近平会见美国企业家",
+          "url": "https://www.douyin.com/hot/2498621",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
+        },
+        {
+          "title": "男子偷拍女生裙底是否会被清出公务员拟录用名单？江苏税务局回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33175686",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
+        },
         {
           "title": "日本考虑编制追加预算，以减轻家庭燃料费用负担",
           "url": "https://flash.jin10.com/detail/20260514105737392800",
