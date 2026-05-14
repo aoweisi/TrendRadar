@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-15T03:01:58.344064+08:00",
-  "total_titles_processed": 395,
+  "generated_at": "2026-05-15T04:55:49.276512+08:00",
+  "total_titles_processed": 467,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3772253",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 03时01分]"
+          "appearance_count": 3,
+          "time_info": "[01时02分 ~ 04时55分]"
         },
         {
           "title": "男子偷拍女生裙底是否会被清出公务员拟录用名单？江苏税务局回应",
@@ -26,8 +27,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 03时01分]"
+          "appearance_count": 3,
+          "time_info": "[01时02分 ~ 04时55分]"
         },
         {
           "title": "马上评｜公示期届满，偷拍者顾某某还能当公务员吗？",
@@ -37,8 +38,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 03时01分]"
+          "appearance_count": 3,
+          "time_info": "[01时02分 ~ 04时55分]"
         }
       ]
     }
