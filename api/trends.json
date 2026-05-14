@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-14T19:51:58.794402+08:00",
-  "total_titles_processed": 1318,
+  "generated_at": "2026-05-14T22:08:48.847124+08:00",
+  "total_titles_processed": 1459,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "体制 事业编 行政编 公务员 国企 编制 公职 选调生 参公 考公 上岸",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "习近平会见美国企业家",
@@ -35,11 +35,23 @@
           "source": "澎湃新闻",
           "ranks": [
             17,
-            15
+            15,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时42分 ~ 19时51分]"
+          "appearance_count": 3,
+          "time_info": "[17时42分 ~ 22时08分]"
+        },
+        {
+          "title": "习近平会见随同美国总统特朗普访华的美国企业家",
+          "url": "https://wallstreetcn.com/articles/3772253",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时08分"
         },
         {
           "title": "中国企业发布载人变形机甲吸引广泛关注",
@@ -48,7 +60,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时51分"
         },
