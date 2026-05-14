@@ -1,47 +1,12 @@
 {
-  "generated_at": "2026-05-14T22:08:48.847124+08:00",
-  "total_titles_processed": 1459,
+  "generated_at": "2026-05-15T01:02:29.805271+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "体制 事业编 行政编 公务员 国企 编制 公职 选调生 参公 考公 上岸",
-      "match_count": 6,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "习近平会见美国企业家",
-          "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BC%9A%E8%A7%81%E7%BE%8E%E5%9B%BD%E4%BC%81%E4%B8%9A%E5%AE%B6",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时42分 ~ 19时51分]"
-        },
-        {
-          "title": "习近平会见美国企业家",
-          "url": "https://www.douyin.com/hot/2498621",
-          "source": "抖音",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时42分"
-        },
-        {
-          "title": "男子偷拍女生裙底是否会被清出公务员拟录用名单？江苏税务局回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33175686",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            15,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时42分 ~ 22时08分]"
-        },
         {
           "title": "习近平会见随同美国总统特朗普访华的美国企业家",
           "url": "https://wallstreetcn.com/articles/3772253",
@@ -49,31 +14,31 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时08分"
+          "time_info": "01时02分"
         },
         {
-          "title": "中国企业发布载人变形机甲吸引广泛关注",
-          "url": "https://wallstreetcn.com/livenews/3103659",
-          "source": "华尔街见闻-快讯",
+          "title": "男子偷拍女生裙底是否会被清出公务员拟录用名单？江苏税务局回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33175686",
+          "source": "澎湃新闻",
           "ranks": [
-            17
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时51分"
+          "time_info": "01时02分"
         },
         {
-          "title": "日本考虑编制追加预算，以减轻家庭燃料费用负担",
-          "url": "https://flash.jin10.com/detail/20260514105737392800",
-          "source": "金十数据",
+          "title": "马上评｜公示期届满，偷拍者顾某某还能当公务员吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33176793",
+          "source": "澎湃新闻",
           "ranks": [
-            25
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时32分"
+          "time_info": "01时02分"
         }
       ]
     }
