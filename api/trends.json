@@ -1,12 +1,36 @@
 {
-  "generated_at": "2026-05-15T11:34:26.470771+08:00",
-  "total_titles_processed": 818,
+  "generated_at": "2026-05-15T14:55:09.501870+08:00",
+  "total_titles_processed": 990,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "体制 事业编 行政编 公务员 国企 编制 公职 选调生 参公 考公 上岸",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "马上评｜公示期届满，偷拍者顾某某还能当公务员吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33176793",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时02分 ~ 14时55分]"
+        },
+        {
+          "title": "特朗普访华欢迎宴会都有哪些中国企业家参加了？",
+          "url": "https://www.zhihu.com/question/2038335260765544921",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时54分 ~ 14时55分]"
+        },
         {
           "title": "习近平会见随同美国总统特朗普访华的美国企业家",
           "url": "https://wallstreetcn.com/articles/3772253",
@@ -14,18 +38,6 @@
           "ranks": [
             7,
             8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 11时34分]"
-        },
-        {
-          "title": "马上评｜公示期届满，偷拍者顾某某还能当公务员吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33176793",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            13
           ],
           "is_new": false,
           "appearance_count": 6,
