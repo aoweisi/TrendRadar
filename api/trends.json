@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-19T08:05:40.029650+08:00",
-  "total_titles_processed": 654,
+  "generated_at": "2026-05-19T13:00:18.063005+08:00",
+  "total_titles_processed": 878,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "体制 事业编 行政编 公务员 国企 编制 公职 选调生 参公 考公 上岸",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "江苏税务局再回应偷拍男生拟录公务员：正走内部程序处理",
@@ -14,11 +14,23 @@
           "ranks": [
             14,
             16,
-            15
+            15,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 08时05分]"
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 13时00分]"
+        },
+        {
+          "title": "三星半导体前总裁：预测存储价格明年下半年开跌，中国企业正在大幅扩产",
+          "url": "https://wallstreetcn.com/articles/3772583",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时59分 ~ 13时00分]"
         },
         {
           "title": "日本财务大臣暗示：政府编制补充预算时会考虑债市因素",
