@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-19T06:02:04.129988+08:00",
-  "total_titles_processed": 543,
+  "generated_at": "2026-05-19T08:05:40.029650+08:00",
+  "total_titles_processed": 654,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 06时02分]"
+          "appearance_count": 8,
+          "time_info": "[00时21分 ~ 08时05分]"
         },
         {
           "title": "日本财务大臣暗示：政府编制补充预算时会考虑债市因素",
@@ -27,7 +27,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
         }
