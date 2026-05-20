@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-21T03:24:13.822801+08:00",
-  "total_titles_processed": 406,
+  "generated_at": "2026-05-21T05:52:27.775792+08:00",
+  "total_titles_processed": 487,
   "failed_sources": [],
   "trends": [
     {
@@ -13,22 +13,24 @@
           "source": "百度热搜",
           "ranks": [
             26,
-            24
+            24,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 03时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 05时52分]"
         },
         {
           "title": "成都大学41岁宿管大叔考研上岸",
           "url": "https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E5%A4%A7%E5%AD%A641%E5%B2%81%E5%AE%BF%E7%AE%A1%E5%A4%A7%E5%8F%94%E8%80%83%E7%A0%94%E4%B8%8A%E5%B2%B8",
           "source": "百度热搜",
           "ranks": [
-            9
+            9,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时23分 ~ 03时24分]"
+          "appearance_count": 3,
+          "time_info": "[03时23分 ~ 05时52分]"
         }
       ]
     }
