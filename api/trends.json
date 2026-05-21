@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-22T05:27:39.441684+08:00",
-  "total_titles_processed": 466,
+  "generated_at": "2026-05-22T07:03:03.115894+08:00",
+  "total_titles_processed": 519,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时56分 ~ 05时27分]"
+          "appearance_count": 5,
+          "time_info": "[01时56分 ~ 07时03分]"
         },
         {
           "title": "方媛出任宝马中国企业事务副总裁",
@@ -25,11 +25,12 @@
           "ranks": [
             6,
             13,
-            29
+            29,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时56分 ~ 05时27分]"
+          "appearance_count": 5,
+          "time_info": "[01时56分 ~ 07时03分]"
         },
         {
           "title": "近年来大批年轻人「死磕」考公，如何看待这种现象？常年备考、面临「成公」考题的年轻人，该何去何从？",
@@ -41,8 +42,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时56分 ~ 05时27分]"
+          "appearance_count": 5,
+          "time_info": "[01时56分 ~ 07时03分]"
         },
         {
           "title": "释新闻｜印尼为何专设一家国企集中管理关键资源出口？",
@@ -52,8 +53,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时56分 ~ 05时27分]"
+          "appearance_count": 5,
+          "time_info": "[01时56分 ~ 07时03分]"
         }
       ]
     }
