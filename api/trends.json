@@ -1,83 +1,22 @@
 {
-  "generated_at": "2026-05-22T21:32:11.983632+08:00",
-  "total_titles_processed": 1275,
+  "generated_at": "2026-05-23T00:25:17.583111+08:00",
+  "total_titles_processed": 305,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "体制 事业编 行政编 公务员 国企 编制 公职 选调生 参公 考公 上岸",
-      "match_count": 6,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "商务部：如欧方执意对中国企业或产品采取歧视性限制措施 中方将坚决反制",
-          "url": "https://www.cls.cn/detail/2377855",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时56分 ~ 07时03分]"
-        },
-        {
-          "title": "方媛出任宝马中国企业事务副总裁",
-          "url": "https://www.toutiao.com/trending/7642257604451483702/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            13,
-            29,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时56分 ~ 07时03分]"
-        },
-        {
-          "title": "近年来大批年轻人「死磕」考公，如何看待这种现象？常年备考、面临「成公」考题的年轻人，该何去何从？",
-          "url": "https://www.zhihu.com/question/2040365374034682724",
-          "source": "知乎",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时56分 ~ 07时03分]"
-        },
-        {
-          "title": "释新闻｜印尼为何专设一家国企集中管理关键资源出口？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33205210",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时56分 ~ 07时03分]"
-        },
         {
           "title": "四川一国企退休职工帮同事维权与董事长争执后猝死，董事长建议去起诉",
           "url": "https://m.thepaper.cn/newsDetail_forward_33205732",
           "source": "澎湃新闻",
           "ranks": [
-            14,
-            13
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时49分 ~ 21时32分]"
-        },
-        {
-          "title": "洛阳理工一宿舍全员考研上岸“985”",
-          "url": "https://www.baidu.com/s?wd=%E6%B4%9B%E9%98%B3%E7%90%86%E5%B7%A5%E4%B8%80%E5%AE%BF%E8%88%8D%E5%85%A8%E5%91%98%E8%80%83%E7%A0%94%E4%B8%8A%E5%B2%B8%E2%80%9C985%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时31分 ~ 21时32分]"
+          "appearance_count": 1,
+          "time_info": "00时25分"
         }
       ]
     }
