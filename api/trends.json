@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-23T04:43:36.056582+08:00",
-  "total_titles_processed": 478,
+  "generated_at": "2026-05-23T06:07:17.032869+08:00",
+  "total_titles_processed": 514,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 04时43分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 06时07分]"
         },
         {
           "title": "商务部称如欧方执意对中国企业或产品采取歧视性限制措施，中方将坚决反制，哪些信息值得关注？",
@@ -27,8 +27,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时53分 ~ 04时43分]"
+          "appearance_count": 3,
+          "time_info": "[02时53分 ~ 06时07分]"
         }
       ]
     }
