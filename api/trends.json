@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-23T08:06:42.472166+08:00",
-  "total_titles_processed": 578,
+  "generated_at": "2026-05-23T12:40:08.042619+08:00",
+  "total_titles_processed": 788,
   "failed_sources": [],
   "trends": [
     {
@@ -8,29 +8,31 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "四川一国企退休职工帮同事维权与董事长争执后猝死，董事长建议去起诉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33205732",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 12时40分]"
+        },
+        {
           "title": "商务部称如欧方执意对中国企业或产品采取歧视性限制措施，中方将坚决反制，哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2040814131796763716",
           "source": "知乎",
           "ranks": [
             6,
             9,
-            4
+            4,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时53分 ~ 08时06分]"
-        },
-        {
-          "title": "四川一国企退休职工帮同事维权与董事长争执后猝死，董事长建议去起诉",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33205732",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 08时06分]"
+          "appearance_count": 6,
+          "time_info": "[02时53分 ~ 12时40分]"
         }
       ]
     }
