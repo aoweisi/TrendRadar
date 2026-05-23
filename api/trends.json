@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-05-24T00:08:46.267588+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-05-24T02:02:04.624979+08:00",
+  "total_titles_processed": 389,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "体制 事业编 行政编 公务员 国企 编制 公职 选调生 参公 考公 上岸",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "考试上岸版中奖概率倍儿高",
+          "url": "https://www.douyin.com/hot/2509363",
+          "source": "抖音",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时01分 ~ 02时02分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
