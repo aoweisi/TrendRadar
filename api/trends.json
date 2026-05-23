@@ -1,66 +1,7 @@
 {
-  "generated_at": "2026-05-23T23:02:18.342301+08:00",
-  "total_titles_processed": 1322,
+  "generated_at": "2026-05-24T00:08:46.267588+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "体制 事业编 行政编 公务员 国企 编制 公职 选调生 参公 考公 上岸",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "四川一国企退休职工帮同事维权与董事长争执后猝死，董事长建议去起诉",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33205732",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            6,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时25分 ~ 15时32分]"
-        },
-        {
-          "title": "商务部称如欧方执意对中国企业或产品采取歧视性限制措施，中方将坚决反制，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2040814131796763716",
-          "source": "知乎",
-          "ranks": [
-            6,
-            9,
-            4,
-            1,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时53分 ~ 15时32分]"
-        },
-        {
-          "title": "考试上岸版中奖概率倍儿高",
-          "url": "https://www.douyin.com/hot/2509363",
-          "source": "抖音",
-          "ranks": [
-            30,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时22分 ~ 23时02分]"
-        },
-        {
-          "title": "印尼计划成立国企垄断大宗商品出口，此举对全球市场和相关产业有何影响？",
-          "url": "https://www.zhihu.com/question/2041134720499594026",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时31分 ~ 15时32分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
