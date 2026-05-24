@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-24T21:23:54.836267+08:00",
-  "total_titles_processed": 1230,
+  "generated_at": "2026-05-24T23:03:35.296610+08:00",
+  "total_titles_processed": 1325,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "凤凰网",
           "ranks": [
             5,
-            4
+            4,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时23分 ~ 21时23分]"
+          "appearance_count": 5,
+          "time_info": "[17时23分 ~ 23时03分]"
         },
         {
           "title": "考试上岸版中奖概率倍儿高",
