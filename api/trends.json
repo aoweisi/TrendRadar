@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-24T17:24:04.696911+08:00",
-  "total_titles_processed": 1007,
+  "generated_at": "2026-05-24T19:15:54.281159+08:00",
+  "total_titles_processed": 1119,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://news.ifeng.com/c/8tOBZztrZBa",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时23分 ~ 17时24分]"
+          "appearance_count": 3,
+          "time_info": "[17时23分 ~ 19时15分]"
         },
         {
           "title": "考试上岸版中奖概率倍儿高",
