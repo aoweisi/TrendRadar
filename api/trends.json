@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-05-24T14:58:48.834817+08:00",
-  "total_titles_processed": 854,
+  "generated_at": "2026-05-24T17:24:04.696911+08:00",
+  "total_titles_processed": 1007,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "体制 事业编 行政编 公务员 国企 编制 公职 选调生 参公 考公 上岸",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "法国怒了：禁止他入境，欧盟应实施集体制裁",
+          "url": "https://news.ifeng.com/c/8tOBZztrZBa",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时23分 ~ 17时24分]"
+        },
         {
           "title": "考试上岸版中奖概率倍儿高",
           "url": "https://www.douyin.com/hot/2509363",
