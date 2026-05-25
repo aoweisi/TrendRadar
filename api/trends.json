@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-25T06:57:50.000094+08:00",
-  "total_titles_processed": 492,
+  "generated_at": "2026-05-25T08:02:07.241990+08:00",
+  "total_titles_processed": 550,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 06时57分]"
+          "appearance_count": 7,
+          "time_info": "[00时59分 ~ 08时02分]"
         },
         {
           "title": "湖南一师同寝室四名女生全员考研上岸",
@@ -24,11 +24,12 @@
           "source": "今日头条",
           "ranks": [
             16,
-            18
+            18,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时56分 ~ 06时57分]"
+          "appearance_count": 4,
+          "time_info": "[05时56分 ~ 08时02分]"
         }
       ]
     }
