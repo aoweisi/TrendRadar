@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-25T12:45:30.266327+08:00",
-  "total_titles_processed": 771,
+  "generated_at": "2026-05-25T16:56:18.313109+08:00",
+  "total_titles_processed": 967,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "体制 事业编 行政编 公务员 国企 编制 公职 选调生 参公 考公 上岸",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "法国怒了：禁止他入境，欧盟应实施集体制裁",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时59分 ~ 12时45分]"
+        },
+        {
+          "title": "日本首相高市早苗：将编制超过3万亿日元的追加预算。",
+          "url": "https://flash.jin10.com/detail/20260525163942976800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时56分"
         },
         {
           "title": "湖南一师同寝室四名女生全员考研上岸",
@@ -38,7 +49,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时45分"
         }
