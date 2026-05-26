@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-05-27T03:22:06.296782+08:00",
-  "total_titles_processed": 403,
+  "generated_at": "2026-05-27T05:44:07.414650+08:00",
+  "total_titles_processed": 482,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "体制 事业编 行政编 公务员 国企 编制 公职 选调生 参公 考公 上岸",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "欧盟理事会延长对俄罗斯相关个人和实体制裁",
+          "url": "https://wallstreetcn.com/livenews/3109634",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时44分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
