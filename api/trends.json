@@ -1,47 +1,7 @@
 {
-  "generated_at": "2026-05-26T17:53:57.137938+08:00",
-  "total_titles_processed": 994,
+  "generated_at": "2026-05-27T00:42:40.801384+08:00",
+  "total_titles_processed": 307,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "体制 事业编 行政编 公务员 国企 编制 公职 选调生 参公 考公 上岸",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "偷拍被开除男生未入围公务员体检",
-          "url": "https://www.baidu.com/s?wd=%E5%81%B7%E6%8B%8D%E8%A2%AB%E5%BC%80%E9%99%A4%E7%94%B7%E7%94%9F%E6%9C%AA%E5%85%A5%E5%9B%B4%E5%85%AC%E5%8A%A1%E5%91%98%E4%BD%93%E6%A3%80",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时43分 ~ 08时14分]"
-        },
-        {
-          "title": "南京审计大学偷拍女生裙底男子未进入公务员体检入围人员名单，怎样看待这一结果？",
-          "url": "https://www.zhihu.com/question/2042351854776836220",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时03分"
-        },
-        {
-          "title": "偷拍裙底男生已取消公务员录用资格",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%81%B7%E6%8B%8D%E8%A3%99%E5%BA%95%E7%94%B7%E7%94%9F%E5%B7%B2%E5%8F%96%E6%B6%88%E5%85%AC%E5%8A%A1%E5%91%98%E5%BD%95%E7%94%A8%E8%B5%84%E6%A0%BC%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时53分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
