@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-26T08:14:40.051455+08:00",
-  "total_titles_processed": 564,
+  "generated_at": "2026-05-26T13:03:29.496879+08:00",
+  "total_titles_processed": 783,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "体制 事业编 行政编 公务员 国企 编制 公职 选调生 参公 考公 上岸",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "偷拍被开除男生未入围公务员体检",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时43分 ~ 08时14分]"
+        },
+        {
+          "title": "南京审计大学偷拍女生裙底男子未进入公务员体检入围人员名单，怎样看待这一结果？",
+          "url": "https://www.zhihu.com/question/2042351854776836220",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时03分"
         }
       ]
     }
