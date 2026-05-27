@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-27T16:03:12.922231+08:00",
-  "total_titles_processed": 966,
+  "generated_at": "2026-05-27T20:19:49.475931+08:00",
+  "total_titles_processed": 1177,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33237048",
           "source": "澎湃新闻",
           "ranks": [
-            17
+            17,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时02分 ~ 16时03分]"
+          "appearance_count": 3,
+          "time_info": "[16时02分 ~ 20时19分]"
         },
         {
           "title": "欧盟理事会延长对俄罗斯相关个人和实体制裁",
