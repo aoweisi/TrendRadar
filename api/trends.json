@@ -1,9 +1,7 @@
 {
-  "generated_at": "2026-06-01T02:02:05.017410+08:00",
-  "total_titles_processed": 383,
-  "failed_sources": [
-    "cls-hot"
-  ],
+  "generated_at": "2026-06-01T03:38:47.911216+08:00",
+  "total_titles_processed": 413,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "体制 事业编 行政编 公务员 国企 编制 公职 选调生 参公 考公 上岸",
@@ -28,8 +26,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时07分 ~ 02时02分]"
+          "appearance_count": 4,
+          "time_info": "[00时07分 ~ 03时38分]"
         }
       ]
     }
