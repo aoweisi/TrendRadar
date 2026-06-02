@@ -1,44 +1,22 @@
 {
-  "generated_at": "2026-06-02T22:52:04.390587+08:00",
-  "total_titles_processed": 1172,
+  "generated_at": "2026-06-03T02:38:57.116000+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "体制 事业编 行政编 公务员 国企 编制 公职 选调生 参公 考公 上岸",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
         {
-          "title": "财政局回应一公务员被指脚踏两条船",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%B4%A2%E6%94%BF%E5%B1%80%E5%9B%9E%E5%BA%94%E4%B8%80%E5%85%AC%E5%8A%A1%E5%91%98%E8%A2%AB%E6%8C%87%E8%84%9A%E8%B8%8F%E4%B8%A4%E6%9D%A1%E8%88%B9%23&t=31&band_rank=5&Refer=top",
+          "title": "事业编考生笔试第1因围报被取消资格",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BA%8B%E4%B8%9A%E7%BC%96%E8%80%83%E7%94%9F%E7%AC%94%E8%AF%95%E7%AC%AC1%E5%9B%A0%E5%9B%B4%E6%8A%A5%E8%A2%AB%E5%8F%96%E6%B6%88%E8%B5%84%E6%A0%BC%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
           "ranks": [
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时20分 ~ 18时21分]"
-        },
-        {
-          "title": "官方回应“公务员被指玩弄感情”",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E5%85%AC%E5%8A%A1%E5%91%98%E8%A2%AB%E6%8C%87%E7%8E%A9%E5%BC%84%E6%84%9F%E6%83%85%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时20分 ~ 18时21分]"
-        },
-        {
-          "title": "日媒：日本防卫省正以冲绳为前沿强化“战时医疗”体制",
-          "url": "https://wallstreetcn.com/livenews/3112987",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时21分"
+          "time_info": "02时38分"
         }
       ]
     }
