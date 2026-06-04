@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-06-05T01:46:33.436366+08:00",
-  "total_titles_processed": 307,
+  "generated_at": "2026-06-05T04:04:44.744783+08:00",
+  "total_titles_processed": 396,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "体制 事业编 行政编 公务员 国企 编制 公职 选调生 参公 考公 上岸",
       "match_count": 3,
       "titles": [
+        {
+          "title": "商务部驳斥经合组织称中国企业获补贴最多：报告结论片面武断",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33306324",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 04时04分]"
+        },
         {
           "title": "国企回应保安只让员工孩子进门躲雨",
           "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%BC%81%E5%9B%9E%E5%BA%94%E4%BF%9D%E5%AE%89%E5%8F%AA%E8%AE%A9%E5%91%98%E5%B7%A5%E5%AD%A9%E5%AD%90%E8%BF%9B%E9%97%A8%E8%BA%B2%E9%9B%A8%23&t=31&band_rank=9&Refer=top",
@@ -24,17 +35,6 @@
           "source": "知乎",
           "ranks": [
             15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时46分"
-        },
-        {
-          "title": "商务部驳斥经合组织称中国企业获补贴最多：报告结论片面武断",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33306324",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
           ],
           "is_new": false,
           "appearance_count": 1,
