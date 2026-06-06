@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-06T07:08:07.728350+08:00",
-  "total_titles_processed": 515,
+  "generated_at": "2026-06-06T10:57:56.407530+08:00",
+  "total_titles_processed": 720,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "体制 事业编 行政编 公务员 国企 编制 公职 选调生 参公 考公 上岸",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "怎么看待美国公务员被强制安装白宫 App，可一键夸特朗普?",
@@ -20,6 +20,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时53分 ~ 07时08分]"
+        },
+        {
+          "title": "怎么看待外媒报道美国公务员被强制安装白宫 App，可一键夸特朗普?",
+          "url": "https://www.zhihu.com/question/2045446455956091852",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时57分"
         }
       ]
     }
