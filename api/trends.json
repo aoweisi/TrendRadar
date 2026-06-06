@@ -1,50 +1,7 @@
 {
-  "generated_at": "2026-06-06T23:14:33.192532+08:00",
-  "total_titles_processed": 1383,
+  "generated_at": "2026-06-07T01:12:38.852475+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "体制 事业编 行政编 公务员 国企 编制 公职 选调生 参公 考公 上岸",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "怎么看待美国公务员被强制安装白宫 App，可一键夸特朗普?",
-          "url": "https://www.zhihu.com/question/2045446455956091852",
-          "source": "知乎",
-          "ranks": [
-            13,
-            10,
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时53分 ~ 07时08分]"
-        },
-        {
-          "title": "各地出招筑牢高考公平防线",
-          "url": "https://www.baidu.com/s?wd=%E5%90%84%E5%9C%B0%E5%87%BA%E6%8B%9B%E7%AD%91%E7%89%A2%E9%AB%98%E8%80%83%E5%85%AC%E5%B9%B3%E9%98%B2%E7%BA%BF",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时25分 ~ 19时25分]"
-        },
-        {
-          "title": "怎么看待外媒报道美国公务员被强制安装白宫 App，可一键夸特朗普?",
-          "url": "https://www.zhihu.com/question/2045446455956091852",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时57分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
