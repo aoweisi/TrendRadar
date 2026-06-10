@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-11T06:01:59.341170+08:00",
-  "total_titles_processed": 497,
+  "generated_at": "2026-06-11T07:43:30.975916+08:00",
+  "total_titles_processed": 596,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "澎湃新闻",
           "ranks": [
             6,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 06时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 07时43分]"
         },
         {
           "title": "欧盟新一轮对俄制裁可能涉及中国企业，中方回应",
