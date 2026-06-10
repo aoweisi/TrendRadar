@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-10T20:57:41.694612+08:00",
-  "total_titles_processed": 1198,
+  "generated_at": "2026-06-11T00:36:27.701090+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
@@ -12,36 +12,33 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33341922",
           "source": "澎湃新闻",
           "ranks": [
-            18,
-            10,
-            9
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时17分 ~ 20时57分]"
+          "appearance_count": 1,
+          "time_info": "00时36分"
         },
         {
           "title": "欧盟新一轮对俄制裁可能涉及中国企业，中方回应",
           "url": "https://www.cls.cn/detail/2395925",
           "source": "财联社热门",
           "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时57分 ~ 20时57分]"
-        },
-        {
-          "title": "香港特区政府全体公务员加薪2%",
-          "url": "https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E7%89%B9%E5%8C%BA%E6%94%BF%E5%BA%9C%E5%85%A8%E4%BD%93%E5%85%AC%E5%8A%A1%E5%91%98%E5%8A%A0%E8%96%AA2%25",
-          "source": "百度热搜",
-          "ranks": [
-            25
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时24分"
+          "time_info": "00时36分"
+        },
+        {
+          "title": "日本通过公务员兼任预备自卫官特例法",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33351734",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时36分"
         }
       ]
     }
