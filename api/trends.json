@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-11T11:48:35.415308+08:00",
-  "total_titles_processed": 815,
+  "generated_at": "2026-06-11T16:46:17.064375+08:00",
+  "total_titles_processed": 1040,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "体制 事业编 行政编 公务员 国企 编制 公职 选调生 参公 考公 上岸",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "黄晓明二战上戏博士，上岸！",
@@ -19,6 +19,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时36分 ~ 07时43分]"
+        },
+        {
+          "title": "香港恒生指数6月11日（周四）收盘下跌158.67点，跌幅0.65%，报24249.29点；<br/>香港恒生科技指数6月11日（周四）收盘下跌69.05点，跌幅1.46%，报4655.74点；<br/>国企指数6月11日（周四）收盘下跌101.65点，跌幅1.22%，报8217.08点；<br/>红筹指数6月11日（周四）收盘下跌33.22点，跌幅0.77%，报4260.75点。",
+          "url": "https://flash.jin10.com/detail/20260611161523577800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时46分"
         },
         {
           "title": "欧盟新一轮对俄制裁可能涉及中国企业，中方回应",
@@ -49,7 +60,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时48分"
         }
