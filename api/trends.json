@@ -1,39 +1,12 @@
 {
-  "generated_at": "2026-06-13T23:43:26.548380+08:00",
-  "total_titles_processed": 1332,
+  "generated_at": "2026-06-14T01:22:27.458798+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "体制 事业编 行政编 公务员 国企 编制 公职 选调生 参公 考公 上岸",
-      "match_count": 5,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "外星小偷之上岸星球",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E6%98%9F%E5%B0%8F%E5%81%B7%E4%B9%8B%E4%B8%8A%E5%B2%B8%E6%98%9F%E7%90%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21,
-            13,
-            16,
-            17,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时37分 ~ 19时14分]"
-        },
-        {
-          "title": "商务部新闻发言人就美国防部将部分中国企业列入“中国军事企业清单”事答记者问",
-          "url": "https://wallstreetcn.com/livenews/3119111",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时21分 ~ 16时57分]"
-        },
         {
           "title": "“投资中国”德国企业圆桌会在德国举行",
           "url": "https://wallstreetcn.com/livenews/3119170",
@@ -41,20 +14,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时43分"
+          "time_info": "01时22分"
         },
         {
           "title": "如何 2026 年中国企业全球影响力中米哈游排名第 50 名？",
           "url": "https://www.zhihu.com/question/2049185744908989704",
           "source": "知乎",
           "ranks": [
-            7
+            8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时43分"
+          "time_info": "01时22分"
         },
         {
           "title": "商务部就美国防部将部分中国企业列入“中国军事企业清单”事答问",
@@ -63,9 +36,9 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时43分"
+          "time_info": "01时22分"
         }
       ]
     }
