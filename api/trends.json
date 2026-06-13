@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-14T01:22:27.458798+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-14T03:24:27.218949+08:00",
+  "total_titles_processed": 351,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时22分"
+          "appearance_count": 2,
+          "time_info": "[01时22分 ~ 03时24分]"
         },
         {
           "title": "如何 2026 年中国企业全球影响力中米哈游排名第 50 名？",
           "url": "https://www.zhihu.com/question/2049185744908989704",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时22分"
+          "appearance_count": 2,
+          "time_info": "[01时22分 ~ 03时24分]"
         },
         {
           "title": "商务部就美国防部将部分中国企业列入“中国军事企业清单”事答问",
@@ -37,8 +38,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时22分"
+          "appearance_count": 2,
+          "time_info": "[01时22分 ~ 03时24分]"
         }
       ]
     }
