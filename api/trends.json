@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-13T16:57:01.216883+08:00",
-  "total_titles_processed": 940,
+  "generated_at": "2026-06-13T19:14:27.340194+08:00",
+  "total_titles_processed": 1063,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             21,
             13,
             16,
-            17
+            17,
+            27
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时37分 ~ 16时57分]"
+          "appearance_count": 9,
+          "time_info": "[01时37分 ~ 19时14分]"
         },
         {
           "title": "商务部新闻发言人就美国防部将部分中国企业列入“中国军事企业清单”事答记者问",
