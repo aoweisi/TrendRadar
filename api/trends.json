@@ -1,27 +1,7 @@
 {
-  "generated_at": "2026-06-20T23:49:20.733669+08:00",
-  "total_titles_processed": 1268,
+  "generated_at": "2026-06-21T01:25:51.579518+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "体制 事业编 行政编 公务员 国企 编制 公职 选调生 参公 考公 上岸",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "加纳正考虑将Gold Fields最大金矿交由本国企业掌控",
-          "url": "https://wallstreetcn.com/livenews/3122155",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            17,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时56分 ~ 05时09分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
