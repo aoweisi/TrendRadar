@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-06-24T06:11:30.804894+08:00",
-  "total_titles_processed": 501,
+  "generated_at": "2026-06-24T07:56:09.547938+08:00",
+  "total_titles_processed": 620,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "体制 事业编 行政编 公务员 国企 编制 公职 选调生 参公 考公 上岸",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "财政部宣布在政府采购活动中对 46 家美国企业采取相关措施，释放哪些信号？",
+          "url": "https://www.zhihu.com/question/2052317085955518628",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时55分 ~ 07时56分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
