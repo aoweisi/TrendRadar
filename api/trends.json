@@ -1,38 +1,7 @@
 {
-  "generated_at": "2026-06-23T23:46:47.379053+08:00",
-  "total_titles_processed": 1431,
+  "generated_at": "2026-06-24T01:53:12.453572+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "体制 事业编 行政编 公务员 国企 编制 公职 选调生 参公 考公 上岸",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "财政部：在政府采购活动中不得采购46家美国企业生产的产品",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33426362",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时40分 ~ 08时06分]"
-        },
-        {
-          "title": "香港恒生指数6月23日（周二）收盘下跌432.24点，跌幅1.82%，报23336.28点；<br/>香港恒生科技指数6月23日（周二）收盘下跌150.19点，跌幅3.3%，报4399.22点；<br/>国企指数6月23日（周二）收盘下跌155.38点，跌幅1.96%，报7759.36点；<br/>红筹指数6月23日（周二）收盘下跌70.88点，跌幅1.79%，报3888.68点。",
-          "url": "https://flash.jin10.com/detail/20260623161840334800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时33分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
