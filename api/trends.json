@@ -1,35 +1,22 @@
 {
-  "generated_at": "2026-06-24T21:21:46.565483+08:00",
-  "total_titles_processed": 1362,
+  "generated_at": "2026-06-25T00:20:59.566210+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "体制 事业编 行政编 公务员 国企 编制 公职 选调生 参公 考公 上岸",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "祝各位考生成功上岸",
           "url": "https://www.douyin.com/hot/2545687",
           "source": "抖音",
           "ranks": [
-            4,
-            6,
-            5
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时38分 ~ 21时21分]"
-        },
-        {
-          "title": "财政部宣布在政府采购活动中对 46 家美国企业采取相关措施，释放哪些信号？",
-          "url": "https://www.zhihu.com/question/2052317085955518628",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时55分 ~ 07时56分]"
+          "appearance_count": 1,
+          "time_info": "00时20分"
         }
       ]
     }
