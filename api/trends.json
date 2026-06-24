@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-24T18:48:27.596987+08:00",
-  "total_titles_processed": 1207,
+  "generated_at": "2026-06-24T21:21:46.565483+08:00",
+  "total_titles_processed": 1362,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "抖音",
           "ranks": [
             4,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时38分 ~ 18时48分]"
+          "appearance_count": 4,
+          "time_info": "[15时38分 ~ 21时21分]"
         },
         {
           "title": "财政部宣布在政府采购活动中对 46 家美国企业采取相关措施，释放哪些信号？",
