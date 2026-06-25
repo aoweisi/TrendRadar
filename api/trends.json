@@ -1,39 +1,7 @@
 {
-  "generated_at": "2026-06-25T22:32:06.461778+08:00",
-  "total_titles_processed": 1467,
+  "generated_at": "2026-06-26T01:12:21.564138+08:00",
+  "total_titles_processed": 307,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "体制 事业编 行政编 公务员 国企 编制 公职 选调生 参公 考公 上岸",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "祝各位考生成功上岸",
-          "url": "https://www.douyin.com/hot/2545687",
-          "source": "抖音",
-          "ranks": [
-            8,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 06时16分]"
-        },
-        {
-          "title": "中国企业家回了马斯克一句话，西方媒体不淡定了",
-          "url": "https://news.ifeng.com/c/8uE6Ferc62C",
-          "source": "凤凰网",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时11分 ~ 16时59分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
