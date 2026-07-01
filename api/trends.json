@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-01T07:11:17.460331+08:00",
-  "total_titles_processed": 548,
+  "generated_at": "2026-07-01T11:40:28.720444+08:00",
+  "total_titles_processed": 781,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "体制 事业编 行政编 公务员 国企 编制 公职 选调生 参公 考公 上岸",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "中国企业开始签存储长约！腾讯被曝与长鑫存储签下超200亿长协大单",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时51分 ~ 07时11分]"
+        },
+        {
+          "title": "AI驱动半导体制造升级 巨头抢购电子级氢氟酸 部分供货商年内已涨价三成",
+          "url": "https://www.cls.cn/detail/2413771",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时40分"
         }
       ]
     }
