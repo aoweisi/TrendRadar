@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-02T01:53:56.314075+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-07-02T03:52:56.111742+08:00",
+  "total_titles_processed": 397,
   "failed_sources": [],
   "trends": [
     {
@@ -8,22 +8,23 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "真实的乡镇公务员是这样的",
+          "url": "https://s.weibo.com/weibo?q=%E7%9C%9F%E5%AE%9E%E7%9A%84%E4%B9%A1%E9%95%87%E5%85%AC%E5%8A%A1%E5%91%98%E6%98%AF%E8%BF%99%E6%A0%B7%E7%9A%84&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时53分 ~ 03时52分]"
+        },
+        {
           "title": "美国贸易代表： 《美墨加协定》未能在缩减美国贸易逆差以及为美国企业提供进入加拿大和墨西哥市场的机会方面兑现承诺。",
           "url": "https://flash.jin10.com/detail/20260702010422349800",
           "source": "金十数据",
           "ranks": [
             17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时53分"
-        },
-        {
-          "title": "真实的乡镇公务员是这样的",
-          "url": "https://s.weibo.com/weibo?q=%E7%9C%9F%E5%AE%9E%E7%9A%84%E4%B9%A1%E9%95%87%E5%85%AC%E5%8A%A1%E5%91%98%E6%98%AF%E8%BF%99%E6%A0%B7%E7%9A%84&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
           ],
           "is_new": false,
           "appearance_count": 1,
