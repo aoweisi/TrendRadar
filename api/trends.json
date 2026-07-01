@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-02T03:52:56.111742+08:00",
-  "total_titles_processed": 397,
+  "generated_at": "2026-07-02T05:27:37.912522+08:00",
+  "total_titles_processed": 469,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "微博",
           "ranks": [
             20,
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时53分 ~ 03时52分]"
+          "appearance_count": 3,
+          "time_info": "[01时53分 ~ 05时27分]"
         },
         {
           "title": "美国贸易代表： 《美墨加协定》未能在缩减美国贸易逆差以及为美国企业提供进入加拿大和墨西哥市场的机会方面兑现承诺。",
