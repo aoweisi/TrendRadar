@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-05T12:56:07.585691+08:00",
-  "total_titles_processed": 720,
+  "generated_at": "2026-07-05T15:56:43.567419+08:00",
+  "total_titles_processed": 863,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "体制 事业编 行政编 公务员 国企 编制 公职 选调生 参公 考公 上岸",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "南非副总统：欢迎更多中国企业来南非投资兴业",
@@ -23,11 +23,34 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33518253",
           "source": "澎湃新闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时55分 ~ 12时56分]"
+          "appearance_count": 3,
+          "time_info": "[12时55分 ~ 15时56分]"
+        },
+        {
+          "title": "男生拒服兵役不得录用为公务员",
+          "url": "https://www.toutiao.com/trending/7657840136478638099/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时56分"
+        },
+        {
+          "title": "四川一地部分酒店在考公期间大幅涨价，当地市监局称无权设价格上限",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33520675",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时56分"
         }
       ]
     }
