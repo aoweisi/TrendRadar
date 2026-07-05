@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-05T20:16:03.628948+08:00",
-  "total_titles_processed": 1101,
+  "generated_at": "2026-07-05T22:42:39.047620+08:00",
+  "total_titles_processed": 1210,
   "failed_sources": [],
   "trends": [
     {
@@ -38,11 +38,12 @@
           "source": "澎湃新闻",
           "ranks": [
             17,
-            15
+            15,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时11分 ~ 20时16分]"
+          "appearance_count": 4,
+          "time_info": "[18时11分 ~ 22时42分]"
         },
         {
           "title": "男生拒服兵役不得录用为公务员",
