@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-07-07T04:53:05.412898+08:00",
-  "total_titles_processed": 502,
+  "generated_at": "2026-07-07T06:13:15.900208+08:00",
+  "total_titles_processed": 582,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "体制 事业编 行政编 公务员 国企 编制 公职 选调生 参公 考公 上岸",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美国总统特朗普：沃尔玛正“以大胆方式行动”，并呼吁其他零售商效仿这一“爱国企业”的做法。",
+          "url": "https://flash.jin10.com/detail/20260707045256832800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
