@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-07-10T22:22:40.645787+08:00",
-  "total_titles_processed": 1431,
+  "generated_at": "2026-07-11T00:56:12.395616+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "体制 事业编 行政编 公务员 国企 编制 公职 选调生 参公 考公 上岸",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "霸占业主8天车位公务员当面道歉",
-          "url": "https://www.toutiao.com/trending/7660275019490361350/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时21分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
