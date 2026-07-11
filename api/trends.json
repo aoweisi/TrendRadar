@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-11T22:52:13.252090+08:00",
-  "total_titles_processed": 1418,
+  "generated_at": "2026-07-11T23:56:06.016618+08:00",
+  "total_titles_processed": 1478,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "体制 事业编 行政编 公务员 国企 编制 公职 选调生 参公 考公 上岸",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "公职霸占车位,官媒怒斥特权",
@@ -53,6 +53,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时52分 ~ 15时53分]"
+        },
+        {
+          "title": "印度女法学生弑母只为接班当公务员",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E5%A5%B3%E6%B3%95%E5%AD%A6%E7%94%9F%E5%BC%91%E6%AF%8D%E5%8F%AA%E4%B8%BA%E6%8E%A5%E7%8F%AD%E5%BD%93%E5%85%AC%E5%8A%A1%E5%91%98%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时55分 ~ 23时56分]"
         },
         {
           "title": "台风10级风圈快上岸了",
