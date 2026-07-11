@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-11T21:15:31.367344+08:00",
-  "total_titles_processed": 1341,
+  "generated_at": "2026-07-11T22:52:13.252090+08:00",
+  "total_titles_processed": 1418,
   "failed_sources": [],
   "trends": [
     {
@@ -36,11 +36,12 @@
           "ranks": [
             12,
             4,
-            8
+            8,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时27分 ~ 21时15分]"
+          "appearance_count": 5,
+          "time_info": "[17时27分 ~ 22时52分]"
         },
         {
           "title": "媒体：公职人员的私德真不是小事",
