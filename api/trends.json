@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-07-12T07:54:28.742221+08:00",
-  "total_titles_processed": 471,
+  "generated_at": "2026-07-12T10:35:37.953768+08:00",
+  "total_titles_processed": 626,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "体制 事业编 行政编 公务员 国企 编制 公职 选调生 参公 考公 上岸",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "机构：上半年百强国企租赁住房管理规模环比增13.45%",
+          "url": "https://flash.jin10.com/detail/20260712093048016800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时35分"
+        },
         {
           "title": "印度女法学生弑母只为接班当公务员",
           "url": "https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E5%A5%B3%E6%B3%95%E5%AD%A6%E7%94%9F%E5%BC%91%E6%AF%8D%E5%8F%AA%E4%B8%BA%E6%8E%A5%E7%8F%AD%E5%BD%93%E5%85%AC%E5%8A%A1%E5%91%98%23&t=31&band_rank=19&Refer=top",
