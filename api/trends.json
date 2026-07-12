@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T18:26:51.231229+08:00",
-  "total_titles_processed": 1040,
+  "generated_at": "2026-07-12T19:58:37.616576+08:00",
+  "total_titles_processed": 1139,
   "failed_sources": [],
   "trends": [
     {
@@ -43,6 +43,19 @@
           "time_info": "[16时16分 ~ 18时26分]"
         },
         {
+          "title": "湖南常德回应“一国企董事长在办公室收礼”：情况属实，免职",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33570093",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时16分 ~ 19时58分]"
+        },
+        {
           "title": "为接班当公务员，印度23岁女大学生花5万元雇凶杀母",
           "url": "https://news.ifeng.com/c/8uhEWMA42Ky",
           "source": "凤凰网",
@@ -53,18 +66,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时56分 ~ 16时16分]"
-        },
-        {
-          "title": "湖南常德回应“一国企董事长在办公室收礼”：情况属实，免职",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33570093",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时16分 ~ 18时26分]"
         },
         {
           "title": "占车位公务员不是知错了而是怕了",
