@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-12T10:35:37.953768+08:00",
-  "total_titles_processed": 626,
+  "generated_at": "2026-07-12T13:57:10.677588+08:00",
+  "total_titles_processed": 792,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "体制 事业编 行政编 公务员 国企 编制 公职 选调生 参公 考公 上岸",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "机构：上半年百强国企租赁住房管理规模环比增13.45%",
@@ -14,9 +14,31 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
+        },
+        {
+          "title": "为接班当公务员，印度23岁女大学生花5万元雇凶杀母",
+          "url": "https://news.ifeng.com/c/8uhEWMA42Ky",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时56分 ~ 13时57分]"
+        },
+        {
+          "title": "占车位公务员不是知错了而是怕了",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%A0%E8%BD%A6%E4%BD%8D%E5%85%AC%E5%8A%A1%E5%91%98%E4%B8%8D%E6%98%AF%E7%9F%A5%E9%94%99%E4%BA%86%E8%80%8C%E6%98%AF%E6%80%95%E4%BA%86%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时56分 ~ 13时57分]"
         },
         {
           "title": "印度女法学生弑母只为接班当公务员",
