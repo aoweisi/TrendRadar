@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-14T10:21:38.828646+08:00",
-  "total_titles_processed": 843,
+  "generated_at": "2026-07-14T13:29:02.769760+08:00",
+  "total_titles_processed": 1009,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "体制 事业编 行政编 公务员 国企 编制 公职 选调生 参公 考公 上岸",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "苹果开始测试中国企业长鑫存储内存芯片，背后有哪些战略考量？此举将带来哪些产业影响？",
@@ -15,11 +15,23 @@
             19,
             16,
             12,
-            6
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时14分 ~ 10时21分]"
+          "appearance_count": 8,
+          "time_info": "[04时14分 ~ 13时29分]"
+        },
+        {
+          "title": "中共中央决定给予马兴瑞开除党籍、开除公职处分",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33581179",
+          "source": "澎湃新闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时28分 ~ 13时29分]"
         }
       ]
     }
