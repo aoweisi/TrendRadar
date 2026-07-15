@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-15T16:06:33.750384+08:00",
-  "total_titles_processed": 1236,
+  "generated_at": "2026-07-15T18:48:29.207889+08:00",
+  "total_titles_processed": 1415,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "体制 事业编 行政编 公务员 国企 编制 公职 选调生 参公 考公 上岸",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "中共中央决定给予马兴瑞开除党籍、开除公职处分",
@@ -17,6 +17,28 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时14分 ~ 10时13分]"
+        },
+        {
+          "title": "国企投近900万拍综艺收益仅8600元",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E4%BC%81%E6%8A%95%E8%BF%91900%E4%B8%87%E6%8B%8D%E7%BB%BC%E8%89%BA%E6%94%B6%E7%9B%8A%E4%BB%858600%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
+        },
+        {
+          "title": "国企投近900万拍综艺收益仅8600元",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%BC%81%E6%8A%95%E8%BF%91900%E4%B8%87%E6%8B%8D%E7%BB%BC%E8%89%BA%E6%94%B6%E7%9B%8A%E4%BB%858600%E5%85%83%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
         }
       ]
     }
