@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-07-16T00:21:05.888306+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-07-16T02:05:57.482629+08:00",
+  "total_titles_processed": 410,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "体制 事业编 行政编 公务员 国企 编制 公职 选调生 参公 考公 上岸",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "伊朗议会议长卡利巴夫：伊朗正与美国进行一场关乎国家存亡的重要战争。美国除了试图推翻伊朗现有体制外，目标还包括分裂我们深爱的祖国伊朗。",
+          "url": "https://flash.jin10.com/detail/20260716013110954800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时05分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
