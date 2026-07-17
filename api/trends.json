@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-17T20:09:04.986863+08:00",
-  "total_titles_processed": 1455,
+  "generated_at": "2026-07-17T22:43:13.879768+08:00",
+  "total_titles_processed": 1621,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             10,
             7,
             5,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时54分 ~ 20时09分]"
+          "appearance_count": 9,
+          "time_info": "[10时54分 ~ 22时43分]"
         },
         {
           "title": "如果我的目标是当公务员，那么上 985 、 211 与上一本有什么区别？",
