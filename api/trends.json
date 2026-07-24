@@ -1,44 +1,33 @@
 {
-  "generated_at": "2026-07-24T23:25:30.345754+08:00",
-  "total_titles_processed": 1606,
+  "generated_at": "2026-07-25T01:29:53.084780+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "体制 事业编 行政编 公务员 国企 编制 公职 选调生 参公 考公 上岸",
-      "match_count": 3,
+      "match_count": 2,
       "titles": [
         {
-          "title": "北京市属国企机器人应用专题推进会召开",
-          "url": "https://flash.jin10.com/detail/20260724105932350800",
+          "title": "特朗普称欧盟“掠夺”美国企业 威胁启动301调查并征收大规模关税",
+          "url": "https://flash.jin10.com/detail/20260725011333281800",
           "source": "金十数据",
           "ranks": [
-            12
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时20分"
+          "time_info": "01时29分"
         },
         {
-          "title": "新加坡政府投资公司GIC：对人工智能投资采取审慎态度；聚焦先进半导体制造与设计。",
-          "url": "https://flash.jin10.com/detail/20260724055905165800",
-          "source": "金十数据",
+          "title": "美国总统特朗普声称，欧盟将付出非常大的代价。 批评欧盟针对苹果、Meta的罚款，他们“在掠夺”美国企业。 美国开始对“欧盟针对美国科技企业采取的行动”展开301调查。 “我们预计将会对欧盟‘大幅’加征关税”。 欧元转跌，在美上市ETF欧元做多回吐日内稍早涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3139589",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时55分"
-        },
-        {
-          "title": "英国央行调查显示，英国企业计划缩小提价和加薪幅度",
-          "url": "https://flash.jin10.com/detail/20260724165958233800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时21分"
+          "time_info": "01时29分"
         }
       ]
     }
