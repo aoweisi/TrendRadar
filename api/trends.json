@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-24T14:24:47.221099+08:00",
-  "total_titles_processed": 979,
+  "generated_at": "2026-07-24T17:21:20.081179+08:00",
+  "total_titles_processed": 1171,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "体制 事业编 行政编 公务员 国企 编制 公职 选调生 参公 考公 上岸",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "北京市属国企机器人应用专题推进会召开",
@@ -28,6 +28,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时55分"
+        },
+        {
+          "title": "英国央行调查显示，英国企业计划缩小提价和加薪幅度",
+          "url": "https://flash.jin10.com/detail/20260724165958233800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时21分"
         }
       ]
     }
