@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-26T00:11:03.169614+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-07-26T01:58:24.910216+08:00",
+  "total_titles_processed": 364,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.toutiao.com/trending/7666453576574684682/",
           "source": "今日头条",
           "ranks": [
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时10分 ~ 00时11分]"
+          "appearance_count": 3,
+          "time_info": "[00时10分 ~ 01时58分]"
         },
         {
           "title": "上百斤重水泥柱被巨浪拍断冲上岸",
