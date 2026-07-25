@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-25T15:14:39.720315+08:00",
-  "total_titles_processed": 923,
+  "generated_at": "2026-07-25T17:45:53.597163+08:00",
+  "total_titles_processed": 1050,
   "failed_sources": [],
   "trends": [
     {
@@ -36,11 +36,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            17
+            17,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时09分 ~ 15时14分]"
+          "appearance_count": 3,
+          "time_info": "[12时09分 ~ 17时45分]"
         },
         {
           "title": "华润集团原党委委员、副总经理韩嵩严重违纪违法被开除党籍和公职。",
