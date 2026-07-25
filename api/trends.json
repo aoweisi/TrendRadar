@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-26T01:58:24.910216+08:00",
-  "total_titles_processed": 364,
+  "generated_at": "2026-07-26T03:09:53.014251+08:00",
+  "total_titles_processed": 398,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "今日头条",
           "ranks": [
             7,
-            4
+            4,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时10分 ~ 01时58分]"
+          "appearance_count": 4,
+          "time_info": "[00时10分 ~ 03时09分]"
         },
         {
           "title": "上百斤重水泥柱被巨浪拍断冲上岸",
