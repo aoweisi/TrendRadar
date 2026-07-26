@@ -1,38 +1,7 @@
 {
-  "generated_at": "2026-07-26T21:17:31.353795+08:00",
-  "total_titles_processed": 1211,
+  "generated_at": "2026-07-27T00:58:35.588105+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "体制 事业编 行政编 公务员 国企 编制 公职 选调生 参公 考公 上岸",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "上百斤重水泥柱被巨浪拍断冲上岸",
-          "url": "https://www.toutiao.com/trending/7666453576574684682/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时10分 ~ 06时54分]"
-        },
-        {
-          "title": "上百斤重水泥柱被巨浪拍断冲上岸",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E7%99%BE%E6%96%A4%E9%87%8D%E6%B0%B4%E6%B3%A5%E6%9F%B1%E8%A2%AB%E5%B7%A8%E6%B5%AA%E6%8B%8D%E6%96%AD%E5%86%B2%E4%B8%8A%E5%B2%B8",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时10分 ~ 00时11分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
