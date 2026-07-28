@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-29T03:21:02.215506+08:00",
-  "total_titles_processed": 380,
+  "generated_at": "2026-07-29T05:05:55.196008+08:00",
+  "total_titles_processed": 448,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时25分 ~ 03时21分]"
+          "appearance_count": 4,
+          "time_info": "[01时25分 ~ 05时05分]"
         },
         {
           "title": "衡水通报“多名公职人员被指侵吞学校资产，2元买走价值8亿元股权”：成立联合调查组",
@@ -26,8 +26,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时25分 ~ 03时21分]"
+          "appearance_count": 4,
+          "time_info": "[01时25分 ~ 05时05分]"
         }
       ]
     }
