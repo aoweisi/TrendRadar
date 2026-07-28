@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-28T18:33:27.795879+08:00",
-  "total_titles_processed": 1173,
+  "generated_at": "2026-07-28T20:53:32.286193+08:00",
+  "total_titles_processed": 1333,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "体制 事业编 行政编 公务员 国企 编制 公职 选调生 参公 考公 上岸",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "衡水一中学创办人举报多名公职人员侵吞学校资产、2元买走价值8亿股权，纪委等介入",
@@ -40,11 +40,12 @@
           "source": "澎湃新闻",
           "ranks": [
             10,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时07分 ~ 18时33分]"
+          "appearance_count": 5,
+          "time_info": "[12时07分 ~ 20时53分]"
         },
         {
           "title": "衡水通报“多名公职人员被指侵吞学校资产，2元买走价值8亿元股权”：成立联合调查组",
@@ -56,8 +57,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时07分 ~ 18时33分]"
+          "appearance_count": 5,
+          "time_info": "[12时07分 ~ 20时53分]"
         },
         {
           "title": "衡水一中学 2 元转让 40% 股权后陷债务危机，有公职人员遭举报，当地成立联合调查组，具体是什么情况？",
@@ -91,6 +92,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时07分 ~ 12时08分]"
+        },
+        {
+          "title": "德国总理默茨：需要一份削减数千亿欧元的预算草案，而不是增加人员编制。",
+          "url": "https://flash.jin10.com/detail/20260728202231819800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
         }
       ]
     }
