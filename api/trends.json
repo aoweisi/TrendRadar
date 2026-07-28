@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-28T07:01:35.386809+08:00",
-  "total_titles_processed": 524,
+  "generated_at": "2026-07-28T08:09:13.848910+08:00",
+  "total_titles_processed": 605,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             21,
             6,
             24,
-            4
+            4,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时42分 ~ 07时01分]"
+          "appearance_count": 7,
+          "time_info": "[01时42分 ~ 08时09分]"
         },
         {
           "title": "衡水一中学创办人举报多名公职人员侵吞学校资产、2元买走价值8亿股权，纪委等介入",
@@ -29,8 +30,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时10分 ~ 07时01分]"
+          "appearance_count": 4,
+          "time_info": "[05时10分 ~ 08时09分]"
         }
       ]
     }
