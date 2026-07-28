@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-28T12:08:01.266099+08:00",
-  "total_titles_processed": 814,
+  "generated_at": "2026-07-28T15:37:24.609458+08:00",
+  "total_titles_processed": 989,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[05时10分 ~ 12时08分]"
+          "appearance_count": 7,
+          "time_info": "[05时10分 ~ 15时37分]"
         },
         {
           "title": "两个月时间足够考研上岸吗",
@@ -42,8 +42,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时07分 ~ 12时08分]"
+          "appearance_count": 3,
+          "time_info": "[12时07分 ~ 15时37分]"
+        },
+        {
+          "title": "衡水通报“多名公职人员被指侵吞学校资产，2元买走价值8亿元股权”：成立联合调查组",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33670831",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时07分 ~ 15时37分]"
         },
         {
           "title": "衡水一中学 2 元转让 40% 股权后陷债务危机，有公职人员遭举报，当地成立联合调查组，具体是什么情况？",
@@ -51,17 +63,6 @@
           "source": "知乎",
           "ranks": [
             13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时07分 ~ 12时08分]"
-        },
-        {
-          "title": "衡水通报“多名公职人员被指侵吞学校资产，2元买走价值8亿元股权”：成立联合调查组",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33670831",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
           ],
           "is_new": false,
           "appearance_count": 2,
