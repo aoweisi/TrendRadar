@@ -1,121 +1,33 @@
 {
-  "generated_at": "2026-07-28T23:19:50.312052+08:00",
-  "total_titles_processed": 1483,
+  "generated_at": "2026-07-29T01:25:28.872851+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "体制 事业编 行政编 公务员 国企 编制 公职 选调生 参公 考公 上岸",
-      "match_count": 9,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "衡水一中学创办人举报多名公职人员侵吞学校资产、2元买走价值8亿股权，纪委等介入",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33667338",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[05时10分 ~ 15时37分]"
-        },
         {
           "title": "衡水通报多名公职人员被举报侵吞学校资产：成立联合调查组，全面深入调查核查",
           "url": "https://m.thepaper.cn/newsDetail_forward_33669694",
           "source": "澎湃新闻",
           "ranks": [
-            10,
-            7,
-            5,
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时07分 ~ 23时19分]"
-        },
-        {
-          "title": "两个月时间足够考研上岸吗",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%A4%E4%B8%AA%E6%9C%88%E6%97%B6%E9%97%B4%E8%B6%B3%E5%A4%9F%E8%80%83%E7%A0%94%E4%B8%8A%E5%B2%B8%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21,
-            6,
-            24,
-            4,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时42分 ~ 08时09分]"
+          "appearance_count": 1,
+          "time_info": "01时25分"
         },
         {
           "title": "衡水通报“多名公职人员被指侵吞学校资产，2元买走价值8亿元股权”：成立联合调查组",
           "url": "https://m.thepaper.cn/newsDetail_forward_33670831",
           "source": "澎湃新闻",
           "ranks": [
-            14,
-            19,
-            17,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时07分 ~ 23时19分]"
-        },
-        {
-          "title": "衡水一中学 2 元转让 40% 股权后陷债务危机，有公职人员遭举报，当地成立联合调查组，具体是什么情况？",
-          "url": "https://www.zhihu.com/question/2065354169976709358",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时07分 ~ 12时08分]"
-        },
-        {
-          "title": "公职人员被举报侵吞8亿资产 官方调查",
-          "url": "https://www.toutiao.com/trending/7667186077138075675/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时07分 ~ 12时08分]"
-        },
-        {
-          "title": "衡水回应公职人员被举报侵吞8亿资产",
-          "url": "https://www.baidu.com/s?wd=%E8%A1%A1%E6%B0%B4%E5%9B%9E%E5%BA%94%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E8%A2%AB%E4%B8%BE%E6%8A%A5%E4%BE%B5%E5%90%9E8%E4%BA%BF%E8%B5%84%E4%BA%A7",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时07分 ~ 12时08分]"
-        },
-        {
-          "title": "德国总理默茨：需要一份削减数千亿欧元的预算草案，而不是增加人员编制。",
-          "url": "https://flash.jin10.com/detail/20260728202231819800",
-          "source": "金十数据",
-          "ranks": [
-            6
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时53分"
-        },
-        {
-          "title": "女子高铁喧哗被提醒 叫嚣全家体制内",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%AB%98%E9%93%81%E5%96%A7%E5%93%97%E8%A2%AB%E6%8F%90%E9%86%92+%E5%8F%AB%E5%9A%A3%E5%85%A8%E5%AE%B6%E4%BD%93%E5%88%B6%E5%86%85",
-          "source": "百度热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时19分"
+          "time_info": "01时25分"
         }
       ]
     }
