@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-30T04:12:33.359972+08:00",
-  "total_titles_processed": 396,
+  "generated_at": "2026-07-30T06:01:15.967508+08:00",
+  "total_titles_processed": 478,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "百度热搜",
           "ranks": [
             29,
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时06分 ~ 04时12分]"
+          "appearance_count": 4,
+          "time_info": "[02时06分 ~ 06时01分]"
         },
         {
           "title": "公职人员称遭单位领导私下打探病情",
