@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-01T04:19:46.010524+08:00",
-  "total_titles_processed": 308,
+  "generated_at": "2026-08-01T06:04:31.214142+08:00",
+  "total_titles_processed": 397,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时19分"
+          "appearance_count": 2,
+          "time_info": "[04时19分 ~ 06时04分]"
         },
         {
           "title": "视频丨日本“国家情报局”正式设立，专家：突破战后和平体制束缚",
@@ -26,8 +26,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时19分"
+          "appearance_count": 2,
+          "time_info": "[04时19分 ~ 06时04分]"
         }
       ]
     }
