@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-31T19:59:01.315072+08:00",
-  "total_titles_processed": 1015,
+  "generated_at": "2026-07-31T22:16:57.597281+08:00",
+  "total_titles_processed": 1172,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33690793",
           "source": "澎湃新闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时58分 ~ 19时59分]"
+          "appearance_count": 3,
+          "time_info": "[19时58分 ~ 22时16分]"
         },
         {
           "title": "视频丨日本“国家情报局”正式设立，专家：突破战后和平体制束缚",
           "url": "https://m.thepaper.cn/newsDetail_forward_33688333",
           "source": "澎湃新闻",
           "ranks": [
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时58分 ~ 19时59分]"
+          "appearance_count": 3,
+          "time_info": "[19时58分 ~ 22时16分]"
         },
         {
           "title": "索尼半导体制造公司：熊本科技中心将于8月中旬前恢复至地震前的运作水准。",
