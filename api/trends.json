@@ -1,57 +1,33 @@
 {
-  "generated_at": "2026-07-31T22:16:57.597281+08:00",
-  "total_titles_processed": 1172,
+  "generated_at": "2026-08-01T04:19:46.010524+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "体制 事业编 行政编 公务员 国企 编制 公职 选调生 参公 考公 上岸",
-      "match_count": 4,
+      "match_count": 2,
       "titles": [
         {
           "title": "四川阿坝红旗大桥垮塌灾害7人被立案侦查，28名公职人员被问责",
           "url": "https://m.thepaper.cn/newsDetail_forward_33690793",
           "source": "澎湃新闻",
           "ranks": [
-            10,
-            9
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时58分 ~ 22时16分]"
+          "appearance_count": 1,
+          "time_info": "04时19分"
         },
         {
           "title": "视频丨日本“国家情报局”正式设立，专家：突破战后和平体制束缚",
           "url": "https://m.thepaper.cn/newsDetail_forward_33688333",
           "source": "澎湃新闻",
           "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时58分 ~ 22时16分]"
-        },
-        {
-          "title": "索尼半导体制造公司：熊本科技中心将于8月中旬前恢复至地震前的运作水准。",
-          "url": "https://flash.jin10.com/detail/20260731130936949800",
-          "source": "金十数据",
-          "ranks": [
-            22
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时12分"
-        },
-        {
-          "title": "索尼半导体制造公司：熊本科技中心因地震停工后，将自8月4日起分阶段恢复营运。",
-          "url": "https://flash.jin10.com/detail/20260731130839548800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时12分"
+          "time_info": "04时19分"
         }
       ]
     }
