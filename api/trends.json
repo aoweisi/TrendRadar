@@ -1,33 +1,46 @@
 {
-  "generated_at": "2026-08-01T06:04:31.214142+08:00",
-  "total_titles_processed": 397,
+  "generated_at": "2026-08-01T08:01:39.345141+08:00",
+  "total_titles_processed": 478,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "体制 事业编 行政编 公务员 国企 编制 公职 选调生 参公 考公 上岸",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "四川阿坝红旗大桥垮塌灾害7人被立案侦查，28名公职人员被问责",
           "url": "https://m.thepaper.cn/newsDetail_forward_33690793",
           "source": "澎湃新闻",
           "ranks": [
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时19分 ~ 06时04分]"
+          "appearance_count": 3,
+          "time_info": "[04时19分 ~ 08时01分]"
         },
         {
           "title": "视频丨日本“国家情报局”正式设立，专家：突破战后和平体制束缚",
           "url": "https://m.thepaper.cn/newsDetail_forward_33688333",
           "source": "澎湃新闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时19分 ~ 06时04分]"
+          "appearance_count": 3,
+          "time_info": "[04时19分 ~ 08时01分]"
+        },
+        {
+          "title": "广西梧州一公职人员称领导私联医生询问病情，警方已立案，这涉嫌侵犯隐私吗？院方可向第三方透露患者病情吗？",
+          "url": "https://www.zhihu.com/question/2066061932646197067",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时01分"
         }
       ]
     }
