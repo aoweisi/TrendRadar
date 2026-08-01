@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-01T14:28:15.247159+08:00",
-  "total_titles_processed": 815,
+  "generated_at": "2026-08-01T17:05:41.261146+08:00",
+  "total_titles_processed": 955,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时42分 ~ 14时28分]"
+          "appearance_count": 4,
+          "time_info": "[11时42分 ~ 17时05分]"
         },
         {
           "title": "四川阿坝红旗大桥垮塌灾害7人被立案侦查，28名公职人员被问责",
@@ -41,8 +41,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时01分 ~ 14时28分]"
+          "appearance_count": 5,
+          "time_info": "[08时01分 ~ 17时05分]"
         },
         {
           "title": "视频丨日本“国家情报局”正式设立，专家：突破战后和平体制束缚",
@@ -61,11 +61,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33692619",
           "source": "澎湃新闻",
           "ranks": [
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时27分 ~ 14时28分]"
+          "appearance_count": 3,
+          "time_info": "[14时27分 ~ 17时05分]"
         },
         {
           "title": "商务部就美国将中国企业列入所谓涉疆法案实体清单答问",
