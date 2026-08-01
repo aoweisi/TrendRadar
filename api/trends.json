@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-01T21:16:59.104786+08:00",
-  "total_titles_processed": 1210,
+  "generated_at": "2026-08-01T22:59:49.476195+08:00",
+  "total_titles_processed": 1309,
   "failed_sources": [],
   "trends": [
     {
@@ -38,11 +38,12 @@
           "ranks": [
             11,
             9,
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时27分 ~ 21时16分]"
+          "appearance_count": 6,
+          "time_info": "[14时27分 ~ 22时59分]"
         },
         {
           "title": "广西梧州一公职人员称领导私联医生询问病情，警方已立案，这涉嫌侵犯隐私吗？院方可向第三方透露患者病情吗？",
@@ -88,7 +89,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时16分"
         }
