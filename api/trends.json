@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-02T20:02:23.019639+08:00",
-  "total_titles_processed": 1120,
+  "generated_at": "2026-08-02T22:28:11.392284+08:00",
+  "total_titles_processed": 1240,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "体制 事业编 行政编 公务员 国企 编制 公职 选调生 参公 考公 上岸",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "商务部就美国将中国企业列入所谓涉疆法案实体清单答问",
@@ -18,6 +18,20 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时05分 ~ 07时56分]"
+        },
+        {
+          "title": "湖南衡阳通报公职人员损坏停车位地锁事件：依规依纪严肃处理",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33696810",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            9,
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时56分 ~ 22时28分]"
         },
         {
           "title": "公职人员停车受阻暴力损坏地锁",
@@ -36,17 +50,15 @@
           "time_info": "[01时59分 ~ 07时56分]"
         },
         {
-          "title": "湖南衡阳通报公职人员损坏停车位地锁事件：依规依纪严肃处理",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33696810",
-          "source": "澎湃新闻",
+          "title": "湖南通报公职人员损坏地锁事件",
+          "url": "https://news.ifeng.com/c/8vG3MK0DYoN",
+          "source": "凤凰网",
           "ranks": [
-            12,
-            9,
-            4
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时56分 ~ 20时02分]"
+          "appearance_count": 6,
+          "time_info": "[13时56分 ~ 22时28分]"
         },
         {
           "title": "公职人员停车受阻撬他人停车位地锁",
@@ -62,17 +74,6 @@
           "time_info": "[00时05分 ~ 06时53分]"
         },
         {
-          "title": "湖南通报公职人员损坏地锁事件",
-          "url": "https://news.ifeng.com/c/8vG3MK0DYoN",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时56分 ~ 20时02分]"
-        },
-        {
           "title": "湖南衡阳一公职人员停车受阻，暴力踹坏他人车位上的地锁，多方回应将调解与调查，此事反映出哪些问题？",
           "url": "https://www.zhihu.com/question/2067049099380123588",
           "source": "知乎",
@@ -81,19 +82,31 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时22分 ~ 20时02分]"
+          "appearance_count": 5,
+          "time_info": "[16时22分 ~ 22时28分]"
         },
         {
           "title": "媒体：公职人员停车受阻踹坏他人地锁，哪来的底气？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33697613",
           "source": "澎湃新闻",
           "ranks": [
-            12
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时40分 ~ 22时28分]"
+        },
+        {
+          "title": "湖南衡阳通报“公职人员损坏车位地锁”：将严肃处理",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33696957",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时40分 ~ 20时02分]"
+          "time_info": "[22时27分 ~ 22时28分]"
         },
         {
           "title": "损坏地锁公职人员称没想到闹这么大",
@@ -135,7 +148,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时02分"
         },
