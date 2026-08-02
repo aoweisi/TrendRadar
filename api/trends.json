@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-02T16:22:30.166874+08:00",
-  "total_titles_processed": 902,
+  "generated_at": "2026-08-02T18:40:25.305939+08:00",
+  "total_titles_processed": 1022,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "体制 事业编 行政编 公务员 国企 编制 公职 选调生 参公 考公 上岸",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "商务部就美国将中国企业列入所谓涉疆法案实体清单答问",
@@ -54,11 +54,12 @@
           "source": "澎湃新闻",
           "ranks": [
             12,
-            9
+            9,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时56分 ~ 16时22分]"
+          "appearance_count": 3,
+          "time_info": "[13时56分 ~ 18时40分]"
         },
         {
           "title": "湖南通报公职人员损坏地锁事件",
@@ -68,8 +69,20 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时56分 ~ 18时40分]"
+        },
+        {
+          "title": "湖南衡阳一公职人员停车受阻，暴力踹坏他人车位上的地锁，多方回应将调解与调查，此事反映出哪些问题？",
+          "url": "https://www.zhihu.com/question/2067049099380123588",
+          "source": "知乎",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时56分 ~ 16时22分]"
+          "time_info": "[16时22分 ~ 18时40分]"
         },
         {
           "title": "损坏地锁公职人员称没想到闹这么大",
@@ -83,15 +96,15 @@
           "time_info": "10时36分"
         },
         {
-          "title": "湖南衡阳一公职人员停车受阻，暴力踹坏他人车位上的地锁，多方回应将调解与调查，此事反映出哪些问题？",
-          "url": "https://www.zhihu.com/question/2067049099380123588",
-          "source": "知乎",
+          "title": "媒体：公职人员停车受阻踹坏他人地锁，哪来的底气？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33697613",
+          "source": "澎湃新闻",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时22分"
+          "time_info": "18时40分"
         },
         {
           "title": "损坏地锁公职人员称没想到闹这么大",
