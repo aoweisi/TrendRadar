@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-03T05:55:11.103723+08:00",
-  "total_titles_processed": 491,
+  "generated_at": "2026-08-03T06:55:54.544381+08:00",
+  "total_titles_processed": 532,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时00分 ~ 05时55分]"
+          "appearance_count": 10,
+          "time_info": "[00时00分 ~ 06时55分]"
         },
         {
           "title": "媒体：公职人员停车受阻踹坏他人地锁，哪来的底气？",
@@ -26,8 +26,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时00分 ~ 05时55分]"
+          "appearance_count": 10,
+          "time_info": "[00时00分 ~ 06时55分]"
         },
         {
           "title": "湖南衡阳通报“公职人员损坏车位地锁”：将严肃处理",
@@ -37,8 +37,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时00分 ~ 05时55分]"
+          "appearance_count": 10,
+          "time_info": "[00时00分 ~ 06时55分]"
         },
         {
           "title": "湖南衡阳一公职人员停车受阻，暴力踹坏他人车位上的地锁，多方回应将调解与调查，此事反映出哪些问题？",
@@ -49,8 +49,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时00分 ~ 05时55分]"
+          "appearance_count": 10,
+          "time_info": "[00时00分 ~ 06时55分]"
         },
         {
           "title": "湖南通报公职人员损坏地锁事件",
@@ -60,8 +60,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时00分 ~ 05时55分]"
+          "appearance_count": 10,
+          "time_info": "[00时00分 ~ 06时55分]"
         },
         {
           "title": "法国总理办公室针对外国投资制度发布声明：法国收紧关于非欧洲实体持股法国公司的制度。 非欧洲投资者若取得法国企业10%及以上股权，必须获得法国财政部批准。",
@@ -69,11 +69,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            8
+            8,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时07分 ~ 05时55分]"
+          "appearance_count": 4,
+          "time_info": "[03时07分 ~ 06时55分]"
         }
       ]
     }
