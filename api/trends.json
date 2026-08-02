@@ -1,9 +1,7 @@
 {
-  "generated_at": "2026-08-03T00:01:58.189897+08:00",
-  "total_titles_processed": 310,
-  "failed_sources": [
-    "baidu"
-  ],
+  "generated_at": "2026-08-03T01:08:57.330648+08:00",
+  "total_titles_processed": 387,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "体制 事业编 行政编 公务员 国企 编制 公职 选调生 参公 考公 上岸",
@@ -17,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时00分 ~ 00时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时00分 ~ 01时08分]"
         },
         {
           "title": "媒体：公职人员停车受阻踹坏他人地锁，哪来的底气？",
@@ -28,8 +26,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时00分 ~ 00时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时00分 ~ 01时08分]"
         },
         {
           "title": "湖南衡阳通报“公职人员损坏车位地锁”：将严肃处理",
@@ -39,8 +37,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时00分 ~ 00时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时00分 ~ 01时08分]"
         },
         {
           "title": "湖南衡阳一公职人员停车受阻，暴力踹坏他人车位上的地锁，多方回应将调解与调查，此事反映出哪些问题？",
@@ -50,8 +48,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时00分 ~ 00时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时00分 ~ 01时08分]"
         },
         {
           "title": "湖南通报公职人员损坏地锁事件",
@@ -61,8 +59,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时00分 ~ 00时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时00分 ~ 01时08分]"
         }
       ]
     }
