@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-03T10:53:35.148640+08:00",
-  "total_titles_processed": 792,
+  "generated_at": "2026-08-03T14:22:11.351985+08:00",
+  "total_titles_processed": 995,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "source": "澎湃新闻",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时00分 ~ 10时53分]"
+          "appearance_count": 15,
+          "time_info": "[00时00分 ~ 14时22分]"
         },
         {
           "title": "湖南衡阳通报“公职人员损坏车位地锁”：将严肃处理",
