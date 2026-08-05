@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-08-06T06:12:09.500241+08:00",
-  "total_titles_processed": 541,
+  "generated_at": "2026-08-06T07:59:47.720186+08:00",
+  "total_titles_processed": 650,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "体制 事业编 行政编 公务员 国企 编制 公职 选调生 参公 考公 上岸",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
-        {
-          "title": "公职人员被举报在职校开餐厅超市",
-          "url": "https://www.baidu.com/s?wd=%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E8%A2%AB%E4%B8%BE%E6%8A%A5%E5%9C%A8%E8%81%8C%E6%A0%A1%E5%BC%80%E9%A4%90%E5%8E%85%E8%B6%85%E5%B8%82",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时40分 ~ 06时12分]"
-        },
         {
           "title": "河南汝州一公职人员被举报在职校开餐厅超市，本人回应称“是给别人帮忙”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33718933",
@@ -25,11 +14,24 @@
           "ranks": [
             4,
             6,
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时40分 ~ 06时12分]"
+          "appearance_count": 8,
+          "time_info": "[00时40分 ~ 07时59分]"
+        },
+        {
+          "title": "公职人员被举报在职校开餐厅超市",
+          "url": "https://www.baidu.com/s?wd=%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E8%A2%AB%E4%B8%BE%E6%8A%A5%E5%9C%A8%E8%81%8C%E6%A0%A1%E5%BC%80%E9%A4%90%E5%8E%85%E8%B6%85%E5%B8%82",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时40分 ~ 07时59分]"
         },
         {
           "title": "海南一编制教师岗出现高分断档考生",
@@ -49,11 +51,12 @@
           "url": "https://www.toutiao.com/trending/7670534995504614958/",
           "source": "今日头条",
           "ranks": [
-            28
+            28,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 00时41分]"
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 07时59分]"
         },
         {
           "title": "公职人员被举报开餐厅超市",
@@ -65,6 +68,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时11分 ~ 06时12分]"
+        },
+        {
+          "title": "44 岁爸爸因叛逆期女儿说「有本事你去考个研究生」，在职一战上岸 985，怎样看待这种教育方式？",
+          "url": "https://www.zhihu.com/question/2068288018167882727",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时59分"
         }
       ]
     }
