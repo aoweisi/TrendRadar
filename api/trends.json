@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-06T04:26:27.462447+08:00",
-  "total_titles_processed": 467,
+  "generated_at": "2026-08-06T06:12:09.500241+08:00",
+  "total_titles_processed": 541,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "体制 事业编 行政编 公务员 国企 编制 公职 选调生 参公 考公 上岸",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "公职人员被举报在职校开餐厅超市",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时40分 ~ 04时26分]"
+          "appearance_count": 7,
+          "time_info": "[00时40分 ~ 06时12分]"
         },
         {
           "title": "河南汝州一公职人员被举报在职校开餐厅超市，本人回应称“是给别人帮忙”",
@@ -28,8 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时40分 ~ 04时26分]"
+          "appearance_count": 7,
+          "time_info": "[00时40分 ~ 06时12分]"
         },
         {
           "title": "海南一编制教师岗出现高分断档考生",
@@ -37,11 +37,12 @@
           "source": "百度热搜",
           "ranks": [
             20,
-            14
+            14,
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时40分 ~ 04时26分]"
+          "appearance_count": 7,
+          "time_info": "[00时40分 ~ 06时12分]"
         },
         {
           "title": "公职人员回应被举报在学校开餐厅超市",
@@ -53,6 +54,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时40分 ~ 00时41分]"
+        },
+        {
+          "title": "公职人员被举报开餐厅超市",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E8%A2%AB%E4%B8%BE%E6%8A%A5%E5%BC%80%E9%A4%90%E5%8E%85%E8%B6%85%E5%B8%82%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时11分 ~ 06时12分]"
         }
       ]
     }
