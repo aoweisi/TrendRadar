@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-07T10:36:57.905191+08:00",
-  "total_titles_processed": 486,
+  "generated_at": "2026-08-07T12:53:51.355858+08:00",
+  "total_titles_processed": 679,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,12 @@
           "source": "澎湃新闻",
           "ranks": [
             9,
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时57分 ~ 10时36分]"
+          "appearance_count": 3,
+          "time_info": "[07时57分 ~ 12时53分]"
         },
         {
           "title": "国企拖欠3700万致市政工程停工",
