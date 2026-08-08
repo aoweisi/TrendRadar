@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T19:27:35.926850+08:00",
-  "total_titles_processed": 1221,
+  "generated_at": "2026-08-08T20:43:30.747325+08:00",
+  "total_titles_processed": 1329,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时31分 ~ 19时27分]"
+          "appearance_count": 3,
+          "time_info": "[18时31分 ~ 20时43分]"
         },
         {
           "title": "全国数标委明确：所谓“数据国家标准编制费”系冒名收取",
@@ -38,11 +38,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             11,
-            13
+            13,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时31分 ~ 19时27分]"
+          "appearance_count": 3,
+          "time_info": "[18时31分 ~ 20时43分]"
         },
         {
           "title": "日媒：中国企业和高校研发投入第一",
